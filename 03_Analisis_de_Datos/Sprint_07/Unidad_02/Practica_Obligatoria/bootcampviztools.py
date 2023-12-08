@@ -316,3 +316,176 @@ def plot_histo_dens(df, columns, bins=None):
 
 # Ejemplo de uso:
 # plot_histograms_with_density(df, ['columna1', 'columna2', 'columna3'], bins=20)
+
+
+
+
+def ver_corr_col(c1, c2, df):
+    '''
+    Esta función comprueba que existe una correlación directa entre dos columnas. Si lo es te muestra los valores únicos de cada una.
+
+    Args:
+    Hay que pasarle las dos columnas como str, y el nombre del df.
+
+    Return:
+    Devuelve una tupla. True y los valores únicos de las columnas. False y mensajes sobre por qué no cuadra.
+    '''
+    a = df[df[c1].notna()][c1].unique().tolist()       # Sacamos los valores únicos de cada una de las columnas
+    b = df[df[c2].notna()][c2].unique().tolist()
+    dic = {}
+    if len(a) == len(b):
+        for i in range(len(a)):
+            dic[a[i]] = b[i]             
+        for index, row in df.iterrows():        # Verificar que todas las filas coincidan con el diccionario
+            valor_c1 = row[c1]
+            valor_c2 = row[c2]
+
+            if valor_c1 in dic and dic[valor_c1] != valor_c2:       # Si hay discrepancia, devuelve false
+                return (False,'Hay discrepancias de correspondencia')   # El sigiente paso sería ver en qué porcentaje es el que varía. Pero haría falta rehacer la creación del dic
+                break                   
+    
+        return (True,a,b)       # Devuelve True si todos lo valores corresponden. Así como las dos listas de valores únicos.
+    else:
+        return (False,'Hay diferente número de valores únicos')           # Longitudes de listas diferentes, por lo que no se corresponden
+
+
+
+def drop_col_corr(df, drop_col = True):
+    """
+    Función para comprobar la correspondencia entre todas las columnas de un dataframe y, en caso de que exista, eliminar la segunda columna.
+    Modifica el dataframe directamente y devuelve un diccionario con las columnas dropeadas.
+
+    Args:
+        df: Dataframe a comprobar.
+        drop_col: Bool. Por defecto es True. Poner false si no queremos que nos elimine las colunmas directamente.
+
+    Returns:
+        Diccionario con las columnas dropeadas.
+    """
+    # Recorremos todas las columnas
+    correspondencias = {}
+    columnas_disp = df.columns.tolist().copy()
+    for c1 in columnas_disp:
+        for c2 in columnas_disp:
+            if c1 != c2:
+                res = ver_corr_col(c1, c2, df)
+                if res[0]:
+                    correspondencias[c1] = c2
+                    # Eliminamos la columna de los iterables
+                    columnas_disp.remove(c2)
+                    
+    # Eliminamos las columnas del dataframe
+    if drop_col is True:
+        for c1 in correspondencias:
+            df.drop(columns=[correspondencias[c1]], inplace=True)
+    return correspondencias
+
+
+def drop_selcol_corr(df, drop_col=True):
+    """
+    Función para comprobar la correspondencia entre todas las columnas de un dataframe y, en caso de que exista, eliminar una columna a tu elección.
+    Modifica el dataframe directamente y devuelve un diccionario con las columnas dropeadas.
+
+    Args:
+        df: Dataframe a comprobar.
+        drop_col: Bool. Por defecto es True. Poner False si no queremos que nos elimine las columnas directamente.
+
+    Returns:
+        Diccionario con las columnas dropeadas.
+    """
+    correspondencias = {}
+    columnas_disp = df.columns.tolist().copy()
+    opciones = {}  # Diccionario para almacenar las opciones del usuario
+    
+    # Buscar correspondencias entre columnas
+    for c1 in columnas_disp:
+        for c2 in columnas_disp:
+            if c1 != c2:
+                res = ver_corr_col(c1, c2, df)
+                if res[0] and (c1, c2) not in opciones.values() and (c2, c1) not in opciones.values():
+                    opciones[len(opciones) + 1] = (c1, c2)
+    
+    # Mostrar las opciones al usuario y solicitar las elecciones
+    if opciones:
+        print("Parejas de columnas con correspondencia:")
+        for idx, (col1, col2) in opciones.items():
+            print(f"{idx}: {col1} - {col2}")
+            eleccion = int(input(f"Ingrese 1 para eliminar '{col2}' o 2 para eliminar '{col1}': "))
+            if eleccion == 1:
+                correspondencias[col1] = col2
+            elif eleccion == 2:
+                correspondencias[col2] = col1
+            else:
+                print("Opción inválida")
+        
+        # Eliminar las columnas elegidas por el usuario
+        if drop_col is True:
+            for col_a_eliminar, col_b_eliminar in correspondencias.items():
+                df.drop(columns=[col_b_eliminar], inplace=True)  # Eliminar la segunda columna de la pareja
+                print(f"Se eliminó la columna '{col_b_eliminar}' de la pareja '{col_a_eliminar} - {col_b_eliminar}'")
+    else:
+        print("No se encontraron correspondencias entre las columnas")
+    
+    return correspondencias
+
+
+
+
+def fillna_media_referida(fillcol, refcol, df):
+    '''
+    La función sustituye los valores nulos de una columna en función de la media de sus valores no nulos 
+    en una seleción de las filas en referencia a otra columna (esperablemente categórica).
+    Primero se ingresa la columna a rellenar y luego la columna de referencia. Las dos como str.
+    Colocar el nombre del df en tercer lugar.
+
+    Return:
+    No devuelve nada, solo rellena el df.
+    '''
+    sel = df[df[refcol].notna()][refcol].unique().tolist()              # Aquí obtenemos los valores unicos de la columna para poder hacer la selección
+    for i in sel:
+        val = (df.loc[df[refcol] == i, fillcol].mean()).round(2)        # Aquí calculamos la media de la selección de valores que no son nulos
+        df.loc[df[refcol] == i, fillcol] = df.loc[df[refcol] == i, fillcol].fillna(val)    # Y aquí rellenamos los nulos de esa selección con esa media
+        # Importante!!! el implace aquí no sirve, porque solo me modifica la varible local del df, no la global, para hacerlo necesito renombrar la selección que modifico!!!
+
+
+def ver_corr_NaN(df, c1, c2):
+    '''
+    Esta función muestra la correspondencia de una columna con los nulos de otra.
+
+    Args:
+    Un df, y dos columnas pasadas como str.
+
+    Return:
+    no devuelve nada, solo hace print.
+    '''
+    sel = df[df.embarked.notna()][c1].unique().tolist()
+    print(sel)
+    for i in sel:
+        part = ((df[c1] == i).mean() * 100).round(2)
+        cond = (df[df[c1] == i][c2].isna().mean() * 100).round(2)
+        print(f'El {part}% de los pasajeros tienen {c1} = {i}, y de esos, el {cond}% tienen {c2} como NaN', end = '\n')
+
+
+
+def crea_df_std(df,row_names, col_names = ['name', 'type', 'prio', 'card', 'card%']):
+    '''
+    Esta es una función para crear una tabla de estudio. Con las columnas, nombre, typo de dato, prioridad, cardinadlidad y porcentaje de cardinalidad.
+
+    Args:
+    Hay que pasarle un df y una lista con el nombre de las columnas del df que queremos estudiar. Además podemos cambiar los nombres de las columnas pasando una lista con los nombres que queremos.
+
+    Return:
+    Devuelve el df_std.
+    '''
+
+    row_types = []
+    row_prio = []
+    card = df[row_names].nunique()
+    card_per = (df[row_names].nunique()/len(df) * 100).round(2)
+
+    for col_name in row_names:
+        col_type = df[col_name].dtype
+        row_types.append(col_type)
+        row_prio.append(3)
+    df_std = pd.DataFrame(list(zip(row_names, row_types, row_prio, card, card_per)),columns=col_names)
+    return df_std
