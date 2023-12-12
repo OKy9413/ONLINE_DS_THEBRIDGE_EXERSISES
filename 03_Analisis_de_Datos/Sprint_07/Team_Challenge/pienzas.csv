@@ -1,0 +1,71 @@
+ID_pieza,Nombre,Color,Preio,ID_categoría
+piezHil419RjMer,Hilos,Rojo,8.63,cateMerc058
+piezAgu716BlMer,Agujas,Blanco,1.18,cateMerc058
+piezBot608MoMer,Botones,Morado,4.88,cateMerc058
+piezCin371RjMer,Cintas,Rojo,5.92,cateMerc058
+piezEnc164AzMer,Encajes,Azul,1.16,cateMerc058
+piezCre123NaMer,Cremalleras,Naranja,7.93,cateMerc058
+piezCin555RsMer,Cinturones,Rosa,6.93,cateMerc058
+piezTij363RsMer,Tijeras,Rosa,1.03,cateMerc058
+piezTel405NaMer,Telas,Naranja,9.02,cateMerc058
+piezPeg966AzMer,Pegamento,Azul,4.11,cateMerc058
+piezMar935AmHer,Martillos,Amarillo,14.23,cateHerr441
+piezDes768VeHer,Destornilladores,Verde,22.93,cateHerr441
+piezSie286NgHer,Sierras,Negro,43.56,cateHerr441
+piezLla279MrHer,Llaves,Marrón,39.57,cateHerr441
+piezPin938MrHer,Pinzas,Marrón,29.53,cateHerr441
+piezCim031VeHer,Cintas métricas,Verde,40.73,cateHerr441
+piezTal563BlHer,Taladros,Blanco,9.11,cateHerr441
+piezCin607NgHer,Cinceles,Negro,28.2,cateHerr441
+piezNiv751MrHer,Niveles,Marrón,22.18,cateHerr441
+piezLij982RsHer,Lijadoras,Rosa,40.8,cateHerr441
+piezLad398MrCon,Ladrillos,Marrón,39.7,cateCons197
+piezCem565MoCon,Cemento,Morado,85.98,cateCons197
+piezLdm064NgCon,Listón de madera,Negro,52.81,cateCons197
+piezPin883NgCon,Pintura,Negro,80.77,cateCons197
+piezHdc287BlCon,Herramientas de construcción,Blanco,48.21,cateCons197
+piezYes415VeCon,Yeso,Verde,66.72,cateCons197
+piezAzu635AmCon,Azulejos,Amarillo,13.41,cateCons197
+piezCae843NaCon,Cables eléctricos,Naranja,20.51,cateCons197
+piezTdP652VeCon,Tubos de PVC,Verde,79.84,cateCons197
+piezCla914AzCon,Clavos,Azul,99.71,cateCons197
+piezMaq239VeCos,Maquillaje,Verde,13.87,cateCosm907
+piezCre811RsCos,Cremas,Rosa,11.89,cateCosm907
+piezPer729NaCos,Perfumes,Naranja,11.83,cateCosm907
+piezPin957NgCos,Pintalabios,Negro,9.42,cateCosm907
+piezCha186AzCos,Champú,Azul,14.34,cateCosm907
+piezEdu218AzCos,Esmaltes de uñas,Azul,5.07,cateCosm907
+piezBdm964NgCos,Brochas de maquillaje,Negro,6.74,cateCosm907
+piezAce229VeCos,Aceites esenciales,Verde,11.67,cateCosm907
+piezMaf133MoCos,Mascarillas faciales,Morado,18.76,cateCosm907
+piezLoc421MrCos,Lociones corporales,Marrón,13.26,cateCosm907
+piezSof313AzMob,Sofás,Azul,295.36,cateMobi161
+piezMes670NaMob,Mesas,Naranja,400.64,cateMobi161
+piezSil118BlMob,Sillas,Blanco,295.98,cateMobi161
+piezArm298MrMob,Armarios,Marrón,194.53,cateMobi161
+piezCam313NgMob,Camas,Negro,361.83,cateMobi161
+piezEst451NgMob,Estanterías,Negro,477.15,cateMobi161
+piezEsc185RsMob,Escritorios,Rosa,65.52,cateMobi161
+piezLám070AmMob,Lámparas,Amarillo,260.69,cateMobi161
+piezMdn772NgMob,Mesitas de noche,Negro,129.28,cateMobi161
+piezSil012NaMob,Sillones,Naranja,319.79,cateMobi161
+piezFru317MoAli,Frutas,Morado,3.99,cateAlim256
+piezVer992RsAli,Verduras,Rosa,3.85,cateAlim256
+piezCar703NaAli,Carnes,Naranja,2.54,cateAlim256
+piezPes321NaAli,Pescados,Naranja,2.63,cateAlim256
+piezPre335AzAli,Productos enlatados,Azul,4.16,cateAlim256
+piezLác040MoAli,Lácteos,Morado,1.17,cateAlim256
+piezPaf881NgAli,Pan fresco,Negro,2.81,cateAlim256
+piezBeb236AzAli,Bebidas,Azul,2.67,cateAlim256
+piezSna181MoAli,Snacks,Morado,1.94,cateAlim256
+piezDul540NaAli,Dulces,Naranja,4.53,cateAlim256
+piezPor890AzInf,Portátiles,Azul,114.67,cateInfo443
+piezImp365NgInf,Impresoras,Negro,42.75,cateInfo443
+piezGaR369NgInf,Gafas RV,Negro,153.42,cateInfo443
+piezPCs864MrInf,PCs,Marrón,118.94,cateInfo443
+piezCom698BlInf,Componentes,Blanco,117.13,cateInfo443
+piezMon094NaInf,Monitores,Naranja,100.53,cateInfo443
+piezTec840RsInf,Teclados,Rosa,33.7,cateInfo443
+piezRat365AmInf,Ratones,Amarillo,166.94,cateInfo443
+piezAur203MrInf,Auriculares,Marrón,174.27,cateInfo443
+piezCab766NgInf,Cables,Negro,114.3,cateInfo443
