@@ -1,0 +1,701 @@
+ID_pieza,Nombre,Color,Precio,ID_categoría
+piezHil178RjMer,Hilos,Rojo,7.34,cateMerc303
+piezHil578AzMer,Hilos,Azul,7.34,cateMerc303
+piezHil267AmMer,Hilos,Amarillo,7.34,cateMerc303
+piezHil927VeMer,Hilos,Verde,7.34,cateMerc303
+piezHil493NaMer,Hilos,Naranja,7.34,cateMerc303
+piezHil652MoMer,Hilos,Morado,7.34,cateMerc303
+piezHil049NgMer,Hilos,Negro,7.34,cateMerc303
+piezHil384BlMer,Hilos,Blanco,7.34,cateMerc303
+piezHil456RsMer,Hilos,Rosa,7.34,cateMerc303
+piezHil433MrMer,Hilos,Marrón,7.34,cateMerc303
+piezAgu755RjMer,Agujas,Rojo,5.44,cateMerc303
+piezAgu581AzMer,Agujas,Azul,5.44,cateMerc303
+piezAgu854AmMer,Agujas,Amarillo,5.44,cateMerc303
+piezAgu028VeMer,Agujas,Verde,5.44,cateMerc303
+piezAgu715NaMer,Agujas,Naranja,5.44,cateMerc303
+piezAgu342MoMer,Agujas,Morado,5.44,cateMerc303
+piezAgu225NgMer,Agujas,Negro,5.44,cateMerc303
+piezAgu229BlMer,Agujas,Blanco,5.44,cateMerc303
+piezAgu102RsMer,Agujas,Rosa,5.44,cateMerc303
+piezAgu618MrMer,Agujas,Marrón,5.44,cateMerc303
+piezBot143RjMer,Botones,Rojo,5.87,cateMerc303
+piezBot119AzMer,Botones,Azul,5.87,cateMerc303
+piezBot430AmMer,Botones,Amarillo,5.87,cateMerc303
+piezBot385VeMer,Botones,Verde,5.87,cateMerc303
+piezBot463NaMer,Botones,Naranja,5.87,cateMerc303
+piezBot304MoMer,Botones,Morado,5.87,cateMerc303
+piezBot942NgMer,Botones,Negro,5.87,cateMerc303
+piezBot444BlMer,Botones,Blanco,5.87,cateMerc303
+piezBot302RsMer,Botones,Rosa,5.87,cateMerc303
+piezBot167MrMer,Botones,Marrón,5.87,cateMerc303
+piezCin691RjMer,Cintas,Rojo,6.09,cateMerc303
+piezCin262AzMer,Cintas,Azul,6.09,cateMerc303
+piezCin094AmMer,Cintas,Amarillo,6.09,cateMerc303
+piezCin893VeMer,Cintas,Verde,6.09,cateMerc303
+piezCin037NaMer,Cintas,Naranja,6.09,cateMerc303
+piezCin704MoMer,Cintas,Morado,6.09,cateMerc303
+piezCin676NgMer,Cintas,Negro,6.09,cateMerc303
+piezCin940BlMer,Cintas,Blanco,6.09,cateMerc303
+piezCin348RsMer,Cintas,Rosa,6.09,cateMerc303
+piezCin382MrMer,Cintas,Marrón,6.09,cateMerc303
+piezEnc406RjMer,Encajes,Rojo,2.43,cateMerc303
+piezEnc723AzMer,Encajes,Azul,2.43,cateMerc303
+piezEnc343AmMer,Encajes,Amarillo,2.43,cateMerc303
+piezEnc704VeMer,Encajes,Verde,2.43,cateMerc303
+piezEnc916NaMer,Encajes,Naranja,2.43,cateMerc303
+piezEnc280MoMer,Encajes,Morado,2.43,cateMerc303
+piezEnc680NgMer,Encajes,Negro,2.43,cateMerc303
+piezEnc449BlMer,Encajes,Blanco,2.43,cateMerc303
+piezEnc846RsMer,Encajes,Rosa,2.43,cateMerc303
+piezEnc061MrMer,Encajes,Marrón,2.43,cateMerc303
+piezCre228RjMer,Cremalleras,Rojo,7.9,cateMerc303
+piezCre239AzMer,Cremalleras,Azul,7.9,cateMerc303
+piezCre581AmMer,Cremalleras,Amarillo,7.9,cateMerc303
+piezCre485VeMer,Cremalleras,Verde,7.9,cateMerc303
+piezCre610NaMer,Cremalleras,Naranja,7.9,cateMerc303
+piezCre869MoMer,Cremalleras,Morado,7.9,cateMerc303
+piezCre258NgMer,Cremalleras,Negro,7.9,cateMerc303
+piezCre998BlMer,Cremalleras,Blanco,7.9,cateMerc303
+piezCre220RsMer,Cremalleras,Rosa,7.9,cateMerc303
+piezCre109MrMer,Cremalleras,Marrón,7.9,cateMerc303
+piezCin499RjMer,Cinturones,Rojo,1.42,cateMerc303
+piezCin791AzMer,Cinturones,Azul,1.42,cateMerc303
+piezCin665AmMer,Cinturones,Amarillo,1.42,cateMerc303
+piezCin062VeMer,Cinturones,Verde,1.42,cateMerc303
+piezCin977NaMer,Cinturones,Naranja,1.42,cateMerc303
+piezCin547MoMer,Cinturones,Morado,1.42,cateMerc303
+piezCin266NgMer,Cinturones,Negro,1.42,cateMerc303
+piezCin008BlMer,Cinturones,Blanco,1.42,cateMerc303
+piezCin586RsMer,Cinturones,Rosa,1.42,cateMerc303
+piezCin743MrMer,Cinturones,Marrón,1.42,cateMerc303
+piezTij734RjMer,Tijeras,Rojo,8.64,cateMerc303
+piezTij484AzMer,Tijeras,Azul,8.64,cateMerc303
+piezTij024AmMer,Tijeras,Amarillo,8.64,cateMerc303
+piezTij387VeMer,Tijeras,Verde,8.64,cateMerc303
+piezTij984NaMer,Tijeras,Naranja,8.64,cateMerc303
+piezTij909MoMer,Tijeras,Morado,8.64,cateMerc303
+piezTij157NgMer,Tijeras,Negro,8.64,cateMerc303
+piezTij669BlMer,Tijeras,Blanco,8.64,cateMerc303
+piezTij122RsMer,Tijeras,Rosa,8.64,cateMerc303
+piezTij551MrMer,Tijeras,Marrón,8.64,cateMerc303
+piezTel090RjMer,Telas,Rojo,6.04,cateMerc303
+piezTel758AzMer,Telas,Azul,6.04,cateMerc303
+piezTel520AmMer,Telas,Amarillo,6.04,cateMerc303
+piezTel334VeMer,Telas,Verde,6.04,cateMerc303
+piezTel769NaMer,Telas,Naranja,6.04,cateMerc303
+piezTel946MoMer,Telas,Morado,6.04,cateMerc303
+piezTel044NgMer,Telas,Negro,6.04,cateMerc303
+piezTel874BlMer,Telas,Blanco,6.04,cateMerc303
+piezTel122RsMer,Telas,Rosa,6.04,cateMerc303
+piezTel064MrMer,Telas,Marrón,6.04,cateMerc303
+piezPeg297RjMer,Pegamento,Rojo,8.62,cateMerc303
+piezPeg995AzMer,Pegamento,Azul,8.62,cateMerc303
+piezPeg308AmMer,Pegamento,Amarillo,8.62,cateMerc303
+piezPeg153VeMer,Pegamento,Verde,8.62,cateMerc303
+piezPeg313NaMer,Pegamento,Naranja,8.62,cateMerc303
+piezPeg407MoMer,Pegamento,Morado,8.62,cateMerc303
+piezPeg137NgMer,Pegamento,Negro,8.62,cateMerc303
+piezPeg114BlMer,Pegamento,Blanco,8.62,cateMerc303
+piezPeg429RsMer,Pegamento,Rosa,8.62,cateMerc303
+piezPeg129MrMer,Pegamento,Marrón,8.62,cateMerc303
+piezMar555RjHer,Martillos,Rojo,18.4,cateHerr383
+piezMar436AzHer,Martillos,Azul,18.4,cateHerr383
+piezMar886AmHer,Martillos,Amarillo,18.4,cateHerr383
+piezMar603VeHer,Martillos,Verde,18.4,cateHerr383
+piezMar746NaHer,Martillos,Naranja,18.4,cateHerr383
+piezMar793MoHer,Martillos,Morado,18.4,cateHerr383
+piezMar884NgHer,Martillos,Negro,18.4,cateHerr383
+piezMar385BlHer,Martillos,Blanco,18.4,cateHerr383
+piezMar432RsHer,Martillos,Rosa,18.4,cateHerr383
+piezMar285MrHer,Martillos,Marrón,18.4,cateHerr383
+piezDes967RjHer,Destornilladores,Rojo,45.02,cateHerr383
+piezDes968AzHer,Destornilladores,Azul,45.02,cateHerr383
+piezDes217AmHer,Destornilladores,Amarillo,45.02,cateHerr383
+piezDes006VeHer,Destornilladores,Verde,45.02,cateHerr383
+piezDes314NaHer,Destornilladores,Naranja,45.02,cateHerr383
+piezDes338MoHer,Destornilladores,Morado,45.02,cateHerr383
+piezDes338NgHer,Destornilladores,Negro,45.02,cateHerr383
+piezDes975BlHer,Destornilladores,Blanco,45.02,cateHerr383
+piezDes145RsHer,Destornilladores,Rosa,45.02,cateHerr383
+piezDes621MrHer,Destornilladores,Marrón,45.02,cateHerr383
+piezSie415RjHer,Sierras,Rojo,43.27,cateHerr383
+piezSie099AzHer,Sierras,Azul,43.27,cateHerr383
+piezSie006AmHer,Sierras,Amarillo,43.27,cateHerr383
+piezSie956VeHer,Sierras,Verde,43.27,cateHerr383
+piezSie123NaHer,Sierras,Naranja,43.27,cateHerr383
+piezSie960MoHer,Sierras,Morado,43.27,cateHerr383
+piezSie643NgHer,Sierras,Negro,43.27,cateHerr383
+piezSie253BlHer,Sierras,Blanco,43.27,cateHerr383
+piezSie698RsHer,Sierras,Rosa,43.27,cateHerr383
+piezSie204MrHer,Sierras,Marrón,43.27,cateHerr383
+piezLla800RjHer,Llaves,Rojo,28.94,cateHerr383
+piezLla982AzHer,Llaves,Azul,28.94,cateHerr383
+piezLla882AmHer,Llaves,Amarillo,28.94,cateHerr383
+piezLla945VeHer,Llaves,Verde,28.94,cateHerr383
+piezLla045NaHer,Llaves,Naranja,28.94,cateHerr383
+piezLla224MoHer,Llaves,Morado,28.94,cateHerr383
+piezLla198NgHer,Llaves,Negro,28.94,cateHerr383
+piezLla870BlHer,Llaves,Blanco,28.94,cateHerr383
+piezLla672RsHer,Llaves,Rosa,28.94,cateHerr383
+piezLla321MrHer,Llaves,Marrón,28.94,cateHerr383
+piezPin405RjHer,Pinzas,Rojo,31.59,cateHerr383
+piezPin009AzHer,Pinzas,Azul,31.59,cateHerr383
+piezPin807AmHer,Pinzas,Amarillo,31.59,cateHerr383
+piezPin934VeHer,Pinzas,Verde,31.59,cateHerr383
+piezPin084NaHer,Pinzas,Naranja,31.59,cateHerr383
+piezPin752MoHer,Pinzas,Morado,31.59,cateHerr383
+piezPin012NgHer,Pinzas,Negro,31.59,cateHerr383
+piezPin487BlHer,Pinzas,Blanco,31.59,cateHerr383
+piezPin271RsHer,Pinzas,Rosa,31.59,cateHerr383
+piezPin565MrHer,Pinzas,Marrón,31.59,cateHerr383
+piezCim057RjHer,Cintas métricas,Rojo,16.89,cateHerr383
+piezCim720AzHer,Cintas métricas,Azul,16.89,cateHerr383
+piezCim535AmHer,Cintas métricas,Amarillo,16.89,cateHerr383
+piezCim129VeHer,Cintas métricas,Verde,16.89,cateHerr383
+piezCim510NaHer,Cintas métricas,Naranja,16.89,cateHerr383
+piezCim374MoHer,Cintas métricas,Morado,16.89,cateHerr383
+piezCim839NgHer,Cintas métricas,Negro,16.89,cateHerr383
+piezCim665BlHer,Cintas métricas,Blanco,16.89,cateHerr383
+piezCim506RsHer,Cintas métricas,Rosa,16.89,cateHerr383
+piezCim458MrHer,Cintas métricas,Marrón,16.89,cateHerr383
+piezTal763RjHer,Taladros,Rojo,6.47,cateHerr383
+piezTal296AzHer,Taladros,Azul,6.47,cateHerr383
+piezTal069AmHer,Taladros,Amarillo,6.47,cateHerr383
+piezTal028VeHer,Taladros,Verde,6.47,cateHerr383
+piezTal056NaHer,Taladros,Naranja,6.47,cateHerr383
+piezTal309MoHer,Taladros,Morado,6.47,cateHerr383
+piezTal003NgHer,Taladros,Negro,6.47,cateHerr383
+piezTal666BlHer,Taladros,Blanco,6.47,cateHerr383
+piezTal648RsHer,Taladros,Rosa,6.47,cateHerr383
+piezTal005MrHer,Taladros,Marrón,6.47,cateHerr383
+piezCin789RjHer,Cinceles,Rojo,11.01,cateHerr383
+piezCin075AzHer,Cinceles,Azul,11.01,cateHerr383
+piezCin755AmHer,Cinceles,Amarillo,11.01,cateHerr383
+piezCin238VeHer,Cinceles,Verde,11.01,cateHerr383
+piezCin442NaHer,Cinceles,Naranja,11.01,cateHerr383
+piezCin690MoHer,Cinceles,Morado,11.01,cateHerr383
+piezCin919NgHer,Cinceles,Negro,11.01,cateHerr383
+piezCin676BlHer,Cinceles,Blanco,11.01,cateHerr383
+piezCin315RsHer,Cinceles,Rosa,11.01,cateHerr383
+piezCin632MrHer,Cinceles,Marrón,11.01,cateHerr383
+piezNiv178RjHer,Niveles,Rojo,46.3,cateHerr383
+piezNiv933AzHer,Niveles,Azul,46.3,cateHerr383
+piezNiv215AmHer,Niveles,Amarillo,46.3,cateHerr383
+piezNiv182VeHer,Niveles,Verde,46.3,cateHerr383
+piezNiv384NaHer,Niveles,Naranja,46.3,cateHerr383
+piezNiv866MoHer,Niveles,Morado,46.3,cateHerr383
+piezNiv421NgHer,Niveles,Negro,46.3,cateHerr383
+piezNiv896BlHer,Niveles,Blanco,46.3,cateHerr383
+piezNiv008RsHer,Niveles,Rosa,46.3,cateHerr383
+piezNiv708MrHer,Niveles,Marrón,46.3,cateHerr383
+piezLij026RjHer,Lijadoras,Rojo,18.5,cateHerr383
+piezLij584AzHer,Lijadoras,Azul,18.5,cateHerr383
+piezLij797AmHer,Lijadoras,Amarillo,18.5,cateHerr383
+piezLij724VeHer,Lijadoras,Verde,18.5,cateHerr383
+piezLij489NaHer,Lijadoras,Naranja,18.5,cateHerr383
+piezLij971MoHer,Lijadoras,Morado,18.5,cateHerr383
+piezLij521NgHer,Lijadoras,Negro,18.5,cateHerr383
+piezLij394BlHer,Lijadoras,Blanco,18.5,cateHerr383
+piezLij587RsHer,Lijadoras,Rosa,18.5,cateHerr383
+piezLij753MrHer,Lijadoras,Marrón,18.5,cateHerr383
+piezLad143RjCon,Ladrillos,Rojo,68.58,cateCons618
+piezLad233AzCon,Ladrillos,Azul,68.58,cateCons618
+piezLad112AmCon,Ladrillos,Amarillo,68.58,cateCons618
+piezLad182VeCon,Ladrillos,Verde,68.58,cateCons618
+piezLad065NaCon,Ladrillos,Naranja,68.58,cateCons618
+piezLad834MoCon,Ladrillos,Morado,68.58,cateCons618
+piezLad172NgCon,Ladrillos,Negro,68.58,cateCons618
+piezLad636BlCon,Ladrillos,Blanco,68.58,cateCons618
+piezLad319RsCon,Ladrillos,Rosa,68.58,cateCons618
+piezLad437MrCon,Ladrillos,Marrón,68.58,cateCons618
+piezCem642RjCon,Cemento,Rojo,86.61,cateCons618
+piezCem497AzCon,Cemento,Azul,86.61,cateCons618
+piezCem727AmCon,Cemento,Amarillo,86.61,cateCons618
+piezCem934VeCon,Cemento,Verde,86.61,cateCons618
+piezCem858NaCon,Cemento,Naranja,86.61,cateCons618
+piezCem174MoCon,Cemento,Morado,86.61,cateCons618
+piezCem125NgCon,Cemento,Negro,86.61,cateCons618
+piezCem678BlCon,Cemento,Blanco,86.61,cateCons618
+piezCem111RsCon,Cemento,Rosa,86.61,cateCons618
+piezCem766MrCon,Cemento,Marrón,86.61,cateCons618
+piezLdm798RjCon,Listón de madera,Rojo,19.74,cateCons618
+piezLdm499AzCon,Listón de madera,Azul,19.74,cateCons618
+piezLdm385AmCon,Listón de madera,Amarillo,19.74,cateCons618
+piezLdm670VeCon,Listón de madera,Verde,19.74,cateCons618
+piezLdm803NaCon,Listón de madera,Naranja,19.74,cateCons618
+piezLdm911MoCon,Listón de madera,Morado,19.74,cateCons618
+piezLdm459NgCon,Listón de madera,Negro,19.74,cateCons618
+piezLdm094BlCon,Listón de madera,Blanco,19.74,cateCons618
+piezLdm644RsCon,Listón de madera,Rosa,19.74,cateCons618
+piezLdm301MrCon,Listón de madera,Marrón,19.74,cateCons618
+piezPin685RjCon,Pintura,Rojo,83.94,cateCons618
+piezPin452AzCon,Pintura,Azul,83.94,cateCons618
+piezPin089AmCon,Pintura,Amarillo,83.94,cateCons618
+piezPin890VeCon,Pintura,Verde,83.94,cateCons618
+piezPin310NaCon,Pintura,Naranja,83.94,cateCons618
+piezPin607MoCon,Pintura,Morado,83.94,cateCons618
+piezPin467NgCon,Pintura,Negro,83.94,cateCons618
+piezPin422BlCon,Pintura,Blanco,83.94,cateCons618
+piezPin607RsCon,Pintura,Rosa,83.94,cateCons618
+piezPin285MrCon,Pintura,Marrón,83.94,cateCons618
+piezHdc522RjCon,Herramientas de construcción,Rojo,93.73,cateCons618
+piezHdc542AzCon,Herramientas de construcción,Azul,93.73,cateCons618
+piezHdc456AmCon,Herramientas de construcción,Amarillo,93.73,cateCons618
+piezHdc703VeCon,Herramientas de construcción,Verde,93.73,cateCons618
+piezHdc070NaCon,Herramientas de construcción,Naranja,93.73,cateCons618
+piezHdc920MoCon,Herramientas de construcción,Morado,93.73,cateCons618
+piezHdc821NgCon,Herramientas de construcción,Negro,93.73,cateCons618
+piezHdc730BlCon,Herramientas de construcción,Blanco,93.73,cateCons618
+piezHdc916RsCon,Herramientas de construcción,Rosa,93.73,cateCons618
+piezHdc007MrCon,Herramientas de construcción,Marrón,93.73,cateCons618
+piezYes509RjCon,Yeso,Rojo,25.49,cateCons618
+piezYes387AzCon,Yeso,Azul,25.49,cateCons618
+piezYes890AmCon,Yeso,Amarillo,25.49,cateCons618
+piezYes331VeCon,Yeso,Verde,25.49,cateCons618
+piezYes794NaCon,Yeso,Naranja,25.49,cateCons618
+piezYes741MoCon,Yeso,Morado,25.49,cateCons618
+piezYes038NgCon,Yeso,Negro,25.49,cateCons618
+piezYes438BlCon,Yeso,Blanco,25.49,cateCons618
+piezYes408RsCon,Yeso,Rosa,25.49,cateCons618
+piezYes133MrCon,Yeso,Marrón,25.49,cateCons618
+piezAzu548RjCon,Azulejos,Rojo,16.59,cateCons618
+piezAzu692AzCon,Azulejos,Azul,16.59,cateCons618
+piezAzu566AmCon,Azulejos,Amarillo,16.59,cateCons618
+piezAzu142VeCon,Azulejos,Verde,16.59,cateCons618
+piezAzu384NaCon,Azulejos,Naranja,16.59,cateCons618
+piezAzu581MoCon,Azulejos,Morado,16.59,cateCons618
+piezAzu758NgCon,Azulejos,Negro,16.59,cateCons618
+piezAzu992BlCon,Azulejos,Blanco,16.59,cateCons618
+piezAzu235RsCon,Azulejos,Rosa,16.59,cateCons618
+piezAzu373MrCon,Azulejos,Marrón,16.59,cateCons618
+piezCae945RjCon,Cables eléctricos,Rojo,97.91,cateCons618
+piezCae314AzCon,Cables eléctricos,Azul,97.91,cateCons618
+piezCae877AmCon,Cables eléctricos,Amarillo,97.91,cateCons618
+piezCae573VeCon,Cables eléctricos,Verde,97.91,cateCons618
+piezCae893NaCon,Cables eléctricos,Naranja,97.91,cateCons618
+piezCae143MoCon,Cables eléctricos,Morado,97.91,cateCons618
+piezCae653NgCon,Cables eléctricos,Negro,97.91,cateCons618
+piezCae955BlCon,Cables eléctricos,Blanco,97.91,cateCons618
+piezCae287RsCon,Cables eléctricos,Rosa,97.91,cateCons618
+piezCae487MrCon,Cables eléctricos,Marrón,97.91,cateCons618
+piezTdP884RjCon,Tubos de PVC,Rojo,87.77,cateCons618
+piezTdP025AzCon,Tubos de PVC,Azul,87.77,cateCons618
+piezTdP980AmCon,Tubos de PVC,Amarillo,87.77,cateCons618
+piezTdP621VeCon,Tubos de PVC,Verde,87.77,cateCons618
+piezTdP602NaCon,Tubos de PVC,Naranja,87.77,cateCons618
+piezTdP511MoCon,Tubos de PVC,Morado,87.77,cateCons618
+piezTdP511NgCon,Tubos de PVC,Negro,87.77,cateCons618
+piezTdP878BlCon,Tubos de PVC,Blanco,87.77,cateCons618
+piezTdP187RsCon,Tubos de PVC,Rosa,87.77,cateCons618
+piezTdP814MrCon,Tubos de PVC,Marrón,87.77,cateCons618
+piezCla325RjCon,Clavos,Rojo,76.71,cateCons618
+piezCla644AzCon,Clavos,Azul,76.71,cateCons618
+piezCla367AmCon,Clavos,Amarillo,76.71,cateCons618
+piezCla301VeCon,Clavos,Verde,76.71,cateCons618
+piezCla594NaCon,Clavos,Naranja,76.71,cateCons618
+piezCla531MoCon,Clavos,Morado,76.71,cateCons618
+piezCla333NgCon,Clavos,Negro,76.71,cateCons618
+piezCla093BlCon,Clavos,Blanco,76.71,cateCons618
+piezCla849RsCon,Clavos,Rosa,76.71,cateCons618
+piezCla924MrCon,Clavos,Marrón,76.71,cateCons618
+piezMaq816RjCos,Maquillaje,Rojo,3.3,cateCosm281
+piezMaq740AzCos,Maquillaje,Azul,3.3,cateCosm281
+piezMaq159AmCos,Maquillaje,Amarillo,3.3,cateCosm281
+piezMaq617VeCos,Maquillaje,Verde,3.3,cateCosm281
+piezMaq925NaCos,Maquillaje,Naranja,3.3,cateCosm281
+piezMaq562MoCos,Maquillaje,Morado,3.3,cateCosm281
+piezMaq848NgCos,Maquillaje,Negro,3.3,cateCosm281
+piezMaq905BlCos,Maquillaje,Blanco,3.3,cateCosm281
+piezMaq871RsCos,Maquillaje,Rosa,3.3,cateCosm281
+piezMaq092MrCos,Maquillaje,Marrón,3.3,cateCosm281
+piezCre211RjCos,Cremas,Rojo,12.34,cateCosm281
+piezCre537AzCos,Cremas,Azul,12.34,cateCosm281
+piezCre406AmCos,Cremas,Amarillo,12.34,cateCosm281
+piezCre611VeCos,Cremas,Verde,12.34,cateCosm281
+piezCre287NaCos,Cremas,Naranja,12.34,cateCosm281
+piezCre440MoCos,Cremas,Morado,12.34,cateCosm281
+piezCre759NgCos,Cremas,Negro,12.34,cateCosm281
+piezCre594BlCos,Cremas,Blanco,12.34,cateCosm281
+piezCre221RsCos,Cremas,Rosa,12.34,cateCosm281
+piezCre601MrCos,Cremas,Marrón,12.34,cateCosm281
+piezPer952RjCos,Perfumes,Rojo,7.56,cateCosm281
+piezPer069AzCos,Perfumes,Azul,7.56,cateCosm281
+piezPer978AmCos,Perfumes,Amarillo,7.56,cateCosm281
+piezPer446VeCos,Perfumes,Verde,7.56,cateCosm281
+piezPer010NaCos,Perfumes,Naranja,7.56,cateCosm281
+piezPer851MoCos,Perfumes,Morado,7.56,cateCosm281
+piezPer686NgCos,Perfumes,Negro,7.56,cateCosm281
+piezPer976BlCos,Perfumes,Blanco,7.56,cateCosm281
+piezPer405RsCos,Perfumes,Rosa,7.56,cateCosm281
+piezPer532MrCos,Perfumes,Marrón,7.56,cateCosm281
+piezPin728RjCos,Pintalabios,Rojo,13.52,cateCosm281
+piezPin066AzCos,Pintalabios,Azul,13.52,cateCosm281
+piezPin486AmCos,Pintalabios,Amarillo,13.52,cateCosm281
+piezPin178VeCos,Pintalabios,Verde,13.52,cateCosm281
+piezPin853NaCos,Pintalabios,Naranja,13.52,cateCosm281
+piezPin577MoCos,Pintalabios,Morado,13.52,cateCosm281
+piezPin197NgCos,Pintalabios,Negro,13.52,cateCosm281
+piezPin042BlCos,Pintalabios,Blanco,13.52,cateCosm281
+piezPin048RsCos,Pintalabios,Rosa,13.52,cateCosm281
+piezPin886MrCos,Pintalabios,Marrón,13.52,cateCosm281
+piezCha986RjCos,Champú,Rojo,5.03,cateCosm281
+piezCha255AzCos,Champú,Azul,5.03,cateCosm281
+piezCha618AmCos,Champú,Amarillo,5.03,cateCosm281
+piezCha706VeCos,Champú,Verde,5.03,cateCosm281
+piezCha985NaCos,Champú,Naranja,5.03,cateCosm281
+piezCha558MoCos,Champú,Morado,5.03,cateCosm281
+piezCha930NgCos,Champú,Negro,5.03,cateCosm281
+piezCha793BlCos,Champú,Blanco,5.03,cateCosm281
+piezCha234RsCos,Champú,Rosa,5.03,cateCosm281
+piezCha094MrCos,Champú,Marrón,5.03,cateCosm281
+piezEdu212RjCos,Esmaltes de uñas,Rojo,14.64,cateCosm281
+piezEdu118AzCos,Esmaltes de uñas,Azul,14.64,cateCosm281
+piezEdu772AmCos,Esmaltes de uñas,Amarillo,14.64,cateCosm281
+piezEdu373VeCos,Esmaltes de uñas,Verde,14.64,cateCosm281
+piezEdu131NaCos,Esmaltes de uñas,Naranja,14.64,cateCosm281
+piezEdu372MoCos,Esmaltes de uñas,Morado,14.64,cateCosm281
+piezEdu467NgCos,Esmaltes de uñas,Negro,14.64,cateCosm281
+piezEdu707BlCos,Esmaltes de uñas,Blanco,14.64,cateCosm281
+piezEdu237RsCos,Esmaltes de uñas,Rosa,14.64,cateCosm281
+piezEdu419MrCos,Esmaltes de uñas,Marrón,14.64,cateCosm281
+piezBdm512RjCos,Brochas de maquillaje,Rojo,3.22,cateCosm281
+piezBdm384AzCos,Brochas de maquillaje,Azul,3.22,cateCosm281
+piezBdm841AmCos,Brochas de maquillaje,Amarillo,3.22,cateCosm281
+piezBdm401VeCos,Brochas de maquillaje,Verde,3.22,cateCosm281
+piezBdm535NaCos,Brochas de maquillaje,Naranja,3.22,cateCosm281
+piezBdm880MoCos,Brochas de maquillaje,Morado,3.22,cateCosm281
+piezBdm043NgCos,Brochas de maquillaje,Negro,3.22,cateCosm281
+piezBdm874BlCos,Brochas de maquillaje,Blanco,3.22,cateCosm281
+piezBdm640RsCos,Brochas de maquillaje,Rosa,3.22,cateCosm281
+piezBdm680MrCos,Brochas de maquillaje,Marrón,3.22,cateCosm281
+piezAce972RjCos,Aceites esenciales,Rojo,11.65,cateCosm281
+piezAce355AzCos,Aceites esenciales,Azul,11.65,cateCosm281
+piezAce832AmCos,Aceites esenciales,Amarillo,11.65,cateCosm281
+piezAce122VeCos,Aceites esenciales,Verde,11.65,cateCosm281
+piezAce679NaCos,Aceites esenciales,Naranja,11.65,cateCosm281
+piezAce415MoCos,Aceites esenciales,Morado,11.65,cateCosm281
+piezAce188NgCos,Aceites esenciales,Negro,11.65,cateCosm281
+piezAce938BlCos,Aceites esenciales,Blanco,11.65,cateCosm281
+piezAce442RsCos,Aceites esenciales,Rosa,11.65,cateCosm281
+piezAce043MrCos,Aceites esenciales,Marrón,11.65,cateCosm281
+piezMaf963RjCos,Mascarillas faciales,Rojo,4.51,cateCosm281
+piezMaf297AzCos,Mascarillas faciales,Azul,4.51,cateCosm281
+piezMaf157AmCos,Mascarillas faciales,Amarillo,4.51,cateCosm281
+piezMaf086VeCos,Mascarillas faciales,Verde,4.51,cateCosm281
+piezMaf497NaCos,Mascarillas faciales,Naranja,4.51,cateCosm281
+piezMaf091MoCos,Mascarillas faciales,Morado,4.51,cateCosm281
+piezMaf586NgCos,Mascarillas faciales,Negro,4.51,cateCosm281
+piezMaf189BlCos,Mascarillas faciales,Blanco,4.51,cateCosm281
+piezMaf300RsCos,Mascarillas faciales,Rosa,4.51,cateCosm281
+piezMaf291MrCos,Mascarillas faciales,Marrón,4.51,cateCosm281
+piezLoc719RjCos,Lociones corporales,Rojo,13.29,cateCosm281
+piezLoc423AzCos,Lociones corporales,Azul,13.29,cateCosm281
+piezLoc892AmCos,Lociones corporales,Amarillo,13.29,cateCosm281
+piezLoc364VeCos,Lociones corporales,Verde,13.29,cateCosm281
+piezLoc694NaCos,Lociones corporales,Naranja,13.29,cateCosm281
+piezLoc707MoCos,Lociones corporales,Morado,13.29,cateCosm281
+piezLoc592NgCos,Lociones corporales,Negro,13.29,cateCosm281
+piezLoc917BlCos,Lociones corporales,Blanco,13.29,cateCosm281
+piezLoc263RsCos,Lociones corporales,Rosa,13.29,cateCosm281
+piezLoc310MrCos,Lociones corporales,Marrón,13.29,cateCosm281
+piezSof024RjMob,Sofás,Rojo,230.92,cateMobi919
+piezSof110AzMob,Sofás,Azul,230.92,cateMobi919
+piezSof304AmMob,Sofás,Amarillo,230.92,cateMobi919
+piezSof730VeMob,Sofás,Verde,230.92,cateMobi919
+piezSof935NaMob,Sofás,Naranja,230.92,cateMobi919
+piezSof015MoMob,Sofás,Morado,230.92,cateMobi919
+piezSof240NgMob,Sofás,Negro,230.92,cateMobi919
+piezSof937BlMob,Sofás,Blanco,230.92,cateMobi919
+piezSof795RsMob,Sofás,Rosa,230.92,cateMobi919
+piezSof841MrMob,Sofás,Marrón,230.92,cateMobi919
+piezMes180RjMob,Mesas,Rojo,303.43,cateMobi919
+piezMes741AzMob,Mesas,Azul,303.43,cateMobi919
+piezMes334AmMob,Mesas,Amarillo,303.43,cateMobi919
+piezMes399VeMob,Mesas,Verde,303.43,cateMobi919
+piezMes810NaMob,Mesas,Naranja,303.43,cateMobi919
+piezMes343MoMob,Mesas,Morado,303.43,cateMobi919
+piezMes011NgMob,Mesas,Negro,303.43,cateMobi919
+piezMes797BlMob,Mesas,Blanco,303.43,cateMobi919
+piezMes232RsMob,Mesas,Rosa,303.43,cateMobi919
+piezMes846MrMob,Mesas,Marrón,303.43,cateMobi919
+piezSil620RjMob,Sillas,Rojo,278.04,cateMobi919
+piezSil762AzMob,Sillas,Azul,278.04,cateMobi919
+piezSil715AmMob,Sillas,Amarillo,278.04,cateMobi919
+piezSil199VeMob,Sillas,Verde,278.04,cateMobi919
+piezSil384NaMob,Sillas,Naranja,278.04,cateMobi919
+piezSil116MoMob,Sillas,Morado,278.04,cateMobi919
+piezSil129NgMob,Sillas,Negro,278.04,cateMobi919
+piezSil845BlMob,Sillas,Blanco,278.04,cateMobi919
+piezSil003RsMob,Sillas,Rosa,278.04,cateMobi919
+piezSil934MrMob,Sillas,Marrón,278.04,cateMobi919
+piezArm033RjMob,Armarios,Rojo,86.03,cateMobi919
+piezArm403AzMob,Armarios,Azul,86.03,cateMobi919
+piezArm265AmMob,Armarios,Amarillo,86.03,cateMobi919
+piezArm985VeMob,Armarios,Verde,86.03,cateMobi919
+piezArm549NaMob,Armarios,Naranja,86.03,cateMobi919
+piezArm676MoMob,Armarios,Morado,86.03,cateMobi919
+piezArm859NgMob,Armarios,Negro,86.03,cateMobi919
+piezArm443BlMob,Armarios,Blanco,86.03,cateMobi919
+piezArm064RsMob,Armarios,Rosa,86.03,cateMobi919
+piezArm466MrMob,Armarios,Marrón,86.03,cateMobi919
+piezCam036RjMob,Camas,Rojo,103.02,cateMobi919
+piezCam200AzMob,Camas,Azul,103.02,cateMobi919
+piezCam538AmMob,Camas,Amarillo,103.02,cateMobi919
+piezCam629VeMob,Camas,Verde,103.02,cateMobi919
+piezCam574NaMob,Camas,Naranja,103.02,cateMobi919
+piezCam361MoMob,Camas,Morado,103.02,cateMobi919
+piezCam074NgMob,Camas,Negro,103.02,cateMobi919
+piezCam640BlMob,Camas,Blanco,103.02,cateMobi919
+piezCam956RsMob,Camas,Rosa,103.02,cateMobi919
+piezCam629MrMob,Camas,Marrón,103.02,cateMobi919
+piezEst528RjMob,Estanterías,Rojo,61.02,cateMobi919
+piezEst848AzMob,Estanterías,Azul,61.02,cateMobi919
+piezEst259AmMob,Estanterías,Amarillo,61.02,cateMobi919
+piezEst678VeMob,Estanterías,Verde,61.02,cateMobi919
+piezEst714NaMob,Estanterías,Naranja,61.02,cateMobi919
+piezEst453MoMob,Estanterías,Morado,61.02,cateMobi919
+piezEst655NgMob,Estanterías,Negro,61.02,cateMobi919
+piezEst667BlMob,Estanterías,Blanco,61.02,cateMobi919
+piezEst322RsMob,Estanterías,Rosa,61.02,cateMobi919
+piezEst172MrMob,Estanterías,Marrón,61.02,cateMobi919
+piezEsc504RjMob,Escritorios,Rojo,55.04,cateMobi919
+piezEsc848AzMob,Escritorios,Azul,55.04,cateMobi919
+piezEsc057AmMob,Escritorios,Amarillo,55.04,cateMobi919
+piezEsc675VeMob,Escritorios,Verde,55.04,cateMobi919
+piezEsc709NaMob,Escritorios,Naranja,55.04,cateMobi919
+piezEsc488MoMob,Escritorios,Morado,55.04,cateMobi919
+piezEsc524NgMob,Escritorios,Negro,55.04,cateMobi919
+piezEsc208BlMob,Escritorios,Blanco,55.04,cateMobi919
+piezEsc261RsMob,Escritorios,Rosa,55.04,cateMobi919
+piezEsc300MrMob,Escritorios,Marrón,55.04,cateMobi919
+piezLám243RjMob,Lámparas,Rojo,267.71,cateMobi919
+piezLám008AzMob,Lámparas,Azul,267.71,cateMobi919
+piezLám314AmMob,Lámparas,Amarillo,267.71,cateMobi919
+piezLám022VeMob,Lámparas,Verde,267.71,cateMobi919
+piezLám371NaMob,Lámparas,Naranja,267.71,cateMobi919
+piezLám905MoMob,Lámparas,Morado,267.71,cateMobi919
+piezLám368NgMob,Lámparas,Negro,267.71,cateMobi919
+piezLám289BlMob,Lámparas,Blanco,267.71,cateMobi919
+piezLám116RsMob,Lámparas,Rosa,267.71,cateMobi919
+piezLám288MrMob,Lámparas,Marrón,267.71,cateMobi919
+piezMdn246RjMob,Mesitas de noche,Rojo,94.96,cateMobi919
+piezMdn163AzMob,Mesitas de noche,Azul,94.96,cateMobi919
+piezMdn940AmMob,Mesitas de noche,Amarillo,94.96,cateMobi919
+piezMdn658VeMob,Mesitas de noche,Verde,94.96,cateMobi919
+piezMdn020NaMob,Mesitas de noche,Naranja,94.96,cateMobi919
+piezMdn896MoMob,Mesitas de noche,Morado,94.96,cateMobi919
+piezMdn190NgMob,Mesitas de noche,Negro,94.96,cateMobi919
+piezMdn821BlMob,Mesitas de noche,Blanco,94.96,cateMobi919
+piezMdn754RsMob,Mesitas de noche,Rosa,94.96,cateMobi919
+piezMdn335MrMob,Mesitas de noche,Marrón,94.96,cateMobi919
+piezSil711RjMob,Sillones,Rojo,82.22,cateMobi919
+piezSil746AzMob,Sillones,Azul,82.22,cateMobi919
+piezSil857AmMob,Sillones,Amarillo,82.22,cateMobi919
+piezSil613VeMob,Sillones,Verde,82.22,cateMobi919
+piezSil726NaMob,Sillones,Naranja,82.22,cateMobi919
+piezSil924MoMob,Sillones,Morado,82.22,cateMobi919
+piezSil700NgMob,Sillones,Negro,82.22,cateMobi919
+piezSil482BlMob,Sillones,Blanco,82.22,cateMobi919
+piezSil412RsMob,Sillones,Rosa,82.22,cateMobi919
+piezSil259MrMob,Sillones,Marrón,82.22,cateMobi919
+piezFru588RjAli,Frutas,Rojo,3.45,cateAlim580
+piezFru238AzAli,Frutas,Azul,3.45,cateAlim580
+piezFru297AmAli,Frutas,Amarillo,3.45,cateAlim580
+piezFru021VeAli,Frutas,Verde,3.45,cateAlim580
+piezFru914NaAli,Frutas,Naranja,3.45,cateAlim580
+piezFru058MoAli,Frutas,Morado,3.45,cateAlim580
+piezFru869NgAli,Frutas,Negro,3.45,cateAlim580
+piezFru551BlAli,Frutas,Blanco,3.45,cateAlim580
+piezFru294RsAli,Frutas,Rosa,3.45,cateAlim580
+piezFru957MrAli,Frutas,Marrón,3.45,cateAlim580
+piezVer650RjAli,Verduras,Rojo,0.6,cateAlim580
+piezVer273AzAli,Verduras,Azul,0.6,cateAlim580
+piezVer320AmAli,Verduras,Amarillo,0.6,cateAlim580
+piezVer690VeAli,Verduras,Verde,0.6,cateAlim580
+piezVer425NaAli,Verduras,Naranja,0.6,cateAlim580
+piezVer180MoAli,Verduras,Morado,0.6,cateAlim580
+piezVer201NgAli,Verduras,Negro,0.6,cateAlim580
+piezVer226BlAli,Verduras,Blanco,0.6,cateAlim580
+piezVer738RsAli,Verduras,Rosa,0.6,cateAlim580
+piezVer109MrAli,Verduras,Marrón,0.6,cateAlim580
+piezCar329RjAli,Carnes,Rojo,2.28,cateAlim580
+piezCar734AzAli,Carnes,Azul,2.28,cateAlim580
+piezCar269AmAli,Carnes,Amarillo,2.28,cateAlim580
+piezCar560VeAli,Carnes,Verde,2.28,cateAlim580
+piezCar923NaAli,Carnes,Naranja,2.28,cateAlim580
+piezCar829MoAli,Carnes,Morado,2.28,cateAlim580
+piezCar379NgAli,Carnes,Negro,2.28,cateAlim580
+piezCar549BlAli,Carnes,Blanco,2.28,cateAlim580
+piezCar910RsAli,Carnes,Rosa,2.28,cateAlim580
+piezCar718MrAli,Carnes,Marrón,2.28,cateAlim580
+piezPes313RjAli,Pescados,Rojo,3.61,cateAlim580
+piezPes132AzAli,Pescados,Azul,3.61,cateAlim580
+piezPes411AmAli,Pescados,Amarillo,3.61,cateAlim580
+piezPes867VeAli,Pescados,Verde,3.61,cateAlim580
+piezPes568NaAli,Pescados,Naranja,3.61,cateAlim580
+piezPes022MoAli,Pescados,Morado,3.61,cateAlim580
+piezPes368NgAli,Pescados,Negro,3.61,cateAlim580
+piezPes897BlAli,Pescados,Blanco,3.61,cateAlim580
+piezPes721RsAli,Pescados,Rosa,3.61,cateAlim580
+piezPes013MrAli,Pescados,Marrón,3.61,cateAlim580
+piezPre981RjAli,Productos enlatados,Rojo,2.19,cateAlim580
+piezPre627AzAli,Productos enlatados,Azul,2.19,cateAlim580
+piezPre652AmAli,Productos enlatados,Amarillo,2.19,cateAlim580
+piezPre951VeAli,Productos enlatados,Verde,2.19,cateAlim580
+piezPre964NaAli,Productos enlatados,Naranja,2.19,cateAlim580
+piezPre878MoAli,Productos enlatados,Morado,2.19,cateAlim580
+piezPre340NgAli,Productos enlatados,Negro,2.19,cateAlim580
+piezPre925BlAli,Productos enlatados,Blanco,2.19,cateAlim580
+piezPre048RsAli,Productos enlatados,Rosa,2.19,cateAlim580
+piezPre727MrAli,Productos enlatados,Marrón,2.19,cateAlim580
+piezLác024RjAli,Lácteos,Rojo,3.72,cateAlim580
+piezLác222AzAli,Lácteos,Azul,3.72,cateAlim580
+piezLác377AmAli,Lácteos,Amarillo,3.72,cateAlim580
+piezLác149VeAli,Lácteos,Verde,3.72,cateAlim580
+piezLác660NaAli,Lácteos,Naranja,3.72,cateAlim580
+piezLác300MoAli,Lácteos,Morado,3.72,cateAlim580
+piezLác659NgAli,Lácteos,Negro,3.72,cateAlim580
+piezLác605BlAli,Lácteos,Blanco,3.72,cateAlim580
+piezLác001RsAli,Lácteos,Rosa,3.72,cateAlim580
+piezLác568MrAli,Lácteos,Marrón,3.72,cateAlim580
+piezPaf067RjAli,Pan fresco,Rojo,4.4,cateAlim580
+piezPaf177AzAli,Pan fresco,Azul,4.4,cateAlim580
+piezPaf257AmAli,Pan fresco,Amarillo,4.4,cateAlim580
+piezPaf279VeAli,Pan fresco,Verde,4.4,cateAlim580
+piezPaf077NaAli,Pan fresco,Naranja,4.4,cateAlim580
+piezPaf508MoAli,Pan fresco,Morado,4.4,cateAlim580
+piezPaf838NgAli,Pan fresco,Negro,4.4,cateAlim580
+piezPaf653BlAli,Pan fresco,Blanco,4.4,cateAlim580
+piezPaf227RsAli,Pan fresco,Rosa,4.4,cateAlim580
+piezPaf651MrAli,Pan fresco,Marrón,4.4,cateAlim580
+piezBeb117RjAli,Bebidas,Rojo,4.92,cateAlim580
+piezBeb472AzAli,Bebidas,Azul,4.92,cateAlim580
+piezBeb978AmAli,Bebidas,Amarillo,4.92,cateAlim580
+piezBeb945VeAli,Bebidas,Verde,4.92,cateAlim580
+piezBeb678NaAli,Bebidas,Naranja,4.92,cateAlim580
+piezBeb807MoAli,Bebidas,Morado,4.92,cateAlim580
+piezBeb202NgAli,Bebidas,Negro,4.92,cateAlim580
+piezBeb495BlAli,Bebidas,Blanco,4.92,cateAlim580
+piezBeb046RsAli,Bebidas,Rosa,4.92,cateAlim580
+piezBeb406MrAli,Bebidas,Marrón,4.92,cateAlim580
+piezSna965RjAli,Snacks,Rojo,4.32,cateAlim580
+piezSna318AzAli,Snacks,Azul,4.32,cateAlim580
+piezSna035AmAli,Snacks,Amarillo,4.32,cateAlim580
+piezSna022VeAli,Snacks,Verde,4.32,cateAlim580
+piezSna925NaAli,Snacks,Naranja,4.32,cateAlim580
+piezSna797MoAli,Snacks,Morado,4.32,cateAlim580
+piezSna058NgAli,Snacks,Negro,4.32,cateAlim580
+piezSna269BlAli,Snacks,Blanco,4.32,cateAlim580
+piezSna139RsAli,Snacks,Rosa,4.32,cateAlim580
+piezSna504MrAli,Snacks,Marrón,4.32,cateAlim580
+piezDul841RjAli,Dulces,Rojo,1.77,cateAlim580
+piezDul290AzAli,Dulces,Azul,1.77,cateAlim580
+piezDul288AmAli,Dulces,Amarillo,1.77,cateAlim580
+piezDul231VeAli,Dulces,Verde,1.77,cateAlim580
+piezDul354NaAli,Dulces,Naranja,1.77,cateAlim580
+piezDul084MoAli,Dulces,Morado,1.77,cateAlim580
+piezDul074NgAli,Dulces,Negro,1.77,cateAlim580
+piezDul406BlAli,Dulces,Blanco,1.77,cateAlim580
+piezDul196RsAli,Dulces,Rosa,1.77,cateAlim580
+piezDul617MrAli,Dulces,Marrón,1.77,cateAlim580
+piezPor159RjInf,Portátiles,Rojo,91.94,cateInfo300
+piezPor248AzInf,Portátiles,Azul,91.94,cateInfo300
+piezPor060AmInf,Portátiles,Amarillo,91.94,cateInfo300
+piezPor259VeInf,Portátiles,Verde,91.94,cateInfo300
+piezPor920NaInf,Portátiles,Naranja,91.94,cateInfo300
+piezPor964MoInf,Portátiles,Morado,91.94,cateInfo300
+piezPor089NgInf,Portátiles,Negro,91.94,cateInfo300
+piezPor076BlInf,Portátiles,Blanco,91.94,cateInfo300
+piezPor562RsInf,Portátiles,Rosa,91.94,cateInfo300
+piezPor533MrInf,Portátiles,Marrón,91.94,cateInfo300
+piezImp228RjInf,Impresoras,Rojo,183.63,cateInfo300
+piezImp589AzInf,Impresoras,Azul,183.63,cateInfo300
+piezImp507AmInf,Impresoras,Amarillo,183.63,cateInfo300
+piezImp108VeInf,Impresoras,Verde,183.63,cateInfo300
+piezImp006NaInf,Impresoras,Naranja,183.63,cateInfo300
+piezImp509MoInf,Impresoras,Morado,183.63,cateInfo300
+piezImp872NgInf,Impresoras,Negro,183.63,cateInfo300
+piezImp755BlInf,Impresoras,Blanco,183.63,cateInfo300
+piezImp314RsInf,Impresoras,Rosa,183.63,cateInfo300
+piezImp511MrInf,Impresoras,Marrón,183.63,cateInfo300
+piezGaR126RjInf,Gafas RV,Rojo,165.38,cateInfo300
+piezGaR182AzInf,Gafas RV,Azul,165.38,cateInfo300
+piezGaR043AmInf,Gafas RV,Amarillo,165.38,cateInfo300
+piezGaR279VeInf,Gafas RV,Verde,165.38,cateInfo300
+piezGaR098NaInf,Gafas RV,Naranja,165.38,cateInfo300
+piezGaR666MoInf,Gafas RV,Morado,165.38,cateInfo300
+piezGaR962NgInf,Gafas RV,Negro,165.38,cateInfo300
+piezGaR290BlInf,Gafas RV,Blanco,165.38,cateInfo300
+piezGaR786RsInf,Gafas RV,Rosa,165.38,cateInfo300
+piezGaR252MrInf,Gafas RV,Marrón,165.38,cateInfo300
+piezPCs040RjInf,PCs,Rojo,125.28,cateInfo300
+piezPCs977AzInf,PCs,Azul,125.28,cateInfo300
+piezPCs880AmInf,PCs,Amarillo,125.28,cateInfo300
+piezPCs549VeInf,PCs,Verde,125.28,cateInfo300
+piezPCs061NaInf,PCs,Naranja,125.28,cateInfo300
+piezPCs801MoInf,PCs,Morado,125.28,cateInfo300
+piezPCs567NgInf,PCs,Negro,125.28,cateInfo300
+piezPCs987BlInf,PCs,Blanco,125.28,cateInfo300
+piezPCs542RsInf,PCs,Rosa,125.28,cateInfo300
+piezPCs588MrInf,PCs,Marrón,125.28,cateInfo300
+piezCom508RjInf,Componentes,Rojo,131.38,cateInfo300
+piezCom882AzInf,Componentes,Azul,131.38,cateInfo300
+piezCom647AmInf,Componentes,Amarillo,131.38,cateInfo300
+piezCom972VeInf,Componentes,Verde,131.38,cateInfo300
+piezCom479NaInf,Componentes,Naranja,131.38,cateInfo300
+piezCom666MoInf,Componentes,Morado,131.38,cateInfo300
+piezCom857NgInf,Componentes,Negro,131.38,cateInfo300
+piezCom421BlInf,Componentes,Blanco,131.38,cateInfo300
+piezCom409RsInf,Componentes,Rosa,131.38,cateInfo300
+piezCom626MrInf,Componentes,Marrón,131.38,cateInfo300
+piezMon012RjInf,Monitores,Rojo,108.9,cateInfo300
+piezMon096AzInf,Monitores,Azul,108.9,cateInfo300
+piezMon555AmInf,Monitores,Amarillo,108.9,cateInfo300
+piezMon154VeInf,Monitores,Verde,108.9,cateInfo300
+piezMon180NaInf,Monitores,Naranja,108.9,cateInfo300
+piezMon723MoInf,Monitores,Morado,108.9,cateInfo300
+piezMon840NgInf,Monitores,Negro,108.9,cateInfo300
+piezMon598BlInf,Monitores,Blanco,108.9,cateInfo300
+piezMon356RsInf,Monitores,Rosa,108.9,cateInfo300
+piezMon541MrInf,Monitores,Marrón,108.9,cateInfo300
+piezTec417RjInf,Teclados,Rojo,134.97,cateInfo300
+piezTec835AzInf,Teclados,Azul,134.97,cateInfo300
+piezTec361AmInf,Teclados,Amarillo,134.97,cateInfo300
+piezTec643VeInf,Teclados,Verde,134.97,cateInfo300
+piezTec983NaInf,Teclados,Naranja,134.97,cateInfo300
+piezTec864MoInf,Teclados,Morado,134.97,cateInfo300
+piezTec572NgInf,Teclados,Negro,134.97,cateInfo300
+piezTec577BlInf,Teclados,Blanco,134.97,cateInfo300
+piezTec326RsInf,Teclados,Rosa,134.97,cateInfo300
+piezTec749MrInf,Teclados,Marrón,134.97,cateInfo300
+piezRat622RjInf,Ratones,Rojo,183.71,cateInfo300
+piezRat855AzInf,Ratones,Azul,183.71,cateInfo300
+piezRat523AmInf,Ratones,Amarillo,183.71,cateInfo300
+piezRat782VeInf,Ratones,Verde,183.71,cateInfo300
+piezRat653NaInf,Ratones,Naranja,183.71,cateInfo300
+piezRat111MoInf,Ratones,Morado,183.71,cateInfo300
+piezRat570NgInf,Ratones,Negro,183.71,cateInfo300
+piezRat354BlInf,Ratones,Blanco,183.71,cateInfo300
+piezRat700RsInf,Ratones,Rosa,183.71,cateInfo300
+piezRat665MrInf,Ratones,Marrón,183.71,cateInfo300
+piezAur270RjInf,Auriculares,Rojo,62.54,cateInfo300
+piezAur233AzInf,Auriculares,Azul,62.54,cateInfo300
+piezAur001AmInf,Auriculares,Amarillo,62.54,cateInfo300
+piezAur066VeInf,Auriculares,Verde,62.54,cateInfo300
+piezAur571NaInf,Auriculares,Naranja,62.54,cateInfo300
+piezAur454MoInf,Auriculares,Morado,62.54,cateInfo300
+piezAur113NgInf,Auriculares,Negro,62.54,cateInfo300
+piezAur416BlInf,Auriculares,Blanco,62.54,cateInfo300
+piezAur032RsInf,Auriculares,Rosa,62.54,cateInfo300
+piezAur206MrInf,Auriculares,Marrón,62.54,cateInfo300
+piezCab954RjInf,Cables,Rojo,32.23,cateInfo300
+piezCab562AzInf,Cables,Azul,32.23,cateInfo300
+piezCab490AmInf,Cables,Amarillo,32.23,cateInfo300
+piezCab538VeInf,Cables,Verde,32.23,cateInfo300
+piezCab242NaInf,Cables,Naranja,32.23,cateInfo300
+piezCab390MoInf,Cables,Morado,32.23,cateInfo300
+piezCab239NgInf,Cables,Negro,32.23,cateInfo300
+piezCab580BlInf,Cables,Blanco,32.23,cateInfo300
+piezCab626RsInf,Cables,Rosa,32.23,cateInfo300
+piezCab279MrInf,Cables,Marrón,32.23,cateInfo300
