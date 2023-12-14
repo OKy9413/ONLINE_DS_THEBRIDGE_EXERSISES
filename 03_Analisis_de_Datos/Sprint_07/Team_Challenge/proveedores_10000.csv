@@ -1,0 +1,102 @@
+ID_proveedor,Nombre,Dirección,Ciudad,Provincia
+provEdF497FR,Electricité de France SA,"Rue Esquermoise, 58",Lille,Nord
+provPuG251FR,Publicis Groupe SA,"Place Masséna, 18",Nice,Provence-Alpes-Côte d'Azur
+provEif549FR,Eiffage SA,"Rue de Metz, 73",Toulouse,Occitanie
+provBEL953FR,BEL SA,"Quai des Chartrons, 96",Bordeaux,Gironde
+provG&T371FR,Gaztransport & Technigaz SA,"Quai des Chartrons, 4",Bordeaux,Gironde
+provLDC071FR,LDC SA,"Avenue Jean Médecin, 96",Nice,Provence-Alpes-Côte d'Azur
+provRob233FR,Robertet SA,"Rue du 22 Novembre, 30",Strasbourg,Bas-Rhin
+provTF1453FR,Télévision Française 1 SA,"Rue Victor Hugo, 7",Lyon,Auvergne-Rhône-Alpes
+provFnD808FR,Fnac Darty SA,"Rue Saint-Ferréol, 73",Marseille,Bouches-du-Rhône
+provTFG580FR,TFF Group,"Avenue Jean Médecin, 64",Nice,Provence-Alpes-Côte d'Azur
+provDer559FR,Derichebourg SA,"Rue Sainte-Catherine, 69",Bordeaux,Gironde
+provDPG813FR,Delta Plus Group,"Rue Saint-Guilhem, 22",Montpellier,Hérault
+provABI591FR,ABIVAX SA,"Champs-Élysées, 17",Paris,Île-de-France
+provXXX959FR,CGG,"Rue Sainte-Catherine, 76",Bordeaux,Gironde
+provSiH990GE,Siemens Healthineers AG,"Limbecker Platz, 3",Essen,North Rhine-Westphalia
+provRat613GE,Rational AG,"Jungfernstieg, 74",Hamburg,Hamburg
+provHA&069GE,Henkel AG & Co KGaA,"Hohe Straße, 70",Cologne,North Rhine-Westphalia
+provBio684GE,BioNTech SE,"Schadowstraße, 100",Düsseldorf,North Rhine-Westphalia
+provHeM574GE,Heidelberg Materials AG,"Jungfernstieg, 21",Hamburg,Hamburg
+provEvo408GE,Evotec SE,"Schillerstraße, 34",Frankfurt,Hesse
+provKUK710GE,KUKA AG,"Schadowstraße, 30",Düsseldorf,North Rhine-Westphalia
+provVVB039GE,VERBIO Vereinigte BioEnergie AG,"Nikolaistraße, 48",Leipzig,Saxony
+provPVT362GE,Pfeiffer Vacuum Technology AG,"Kaiserstraße, 49",Frankfurt,Hesse
+provMBH658GE,Maschinenfabrik Berthold Hermle AG,"Hohe Straße, 34",Cologne,North Rhine-Westphalia
+provMor734GE,MorphoSys AG,"Calwer Straße, 53",Stuttgart,Baden-Württemberg
+provCro019GE,CropEnergies AG,"Limbecker Platz, 73",Essen,North Rhine-Westphalia
+provNUB454GE,NUERNBERGER Beteiligungs AG,"Königstraße, 69",Stuttgart,Baden-Württemberg
+provVos971GE,Vossloh AG,"Kettwiger Straße, 2",Essen,North Rhine-Westphalia
+provMed974GE,Medion AG,"Königsallee, 73",Düsseldorf,North Rhine-Westphalia
+provSSG189GE,SLM Solutions Group AG,"Nikolaistraße, 25",Leipzig,Saxony
+provLin564UK,Linde plc,"Bold Street, 93",Liverpool,Merseyside
+provHSH047UK,HSBC Holdings plc,"Division Street, 57",Sheffield,South Yorkshire
+provDia214UK,Diageo plc,"Fargate, 6",Sheffield,South Yorkshire
+provGla159UK,GlaxoSmithKline plc,"Market Street, 75",Manchester,Greater Manchester
+provNaG379UK,NatWest Group plc,"Park Street, 57",Bristol,Bristol
+provBun716UK,Bunzl plc,"Argyle Street, 87",Glasgow,Glasgow City
+provSMI564UK,Scottish Mortgage Investment Trust plc,"Queen Square, 31",Bristol,Bristol
+provPen195UK,Pentair plc,"Argyle Street, 95",Glasgow,Glasgow City
+provWhi166UK,Whitbread plc,"Mathew Street, 88",Liverpool,Merseyside
+provSJP885UK,St. James's Place plc,"Bullring, 78",Birmingham,West Midlands
+provATG036UK,Auto Trader Group plc,"Granby Street, 43",Leicester,Leicestershire
+provTBG804UK,The Berkeley Group Holdings plc,"Bullring, 61",Birmingham,West Midlands
+provSpe920UK,Spectris plc,"High Street, 78",Leicester,Leicestershire
+provMaM160UK,Marshall Monteagle PLC,"Ecclesall Road, 42",Sheffield,South Yorkshire
+provGUW155UK,Greencoat UK Wind plc,"Baker Street, 35",London,Greater London
+provAlG054UK,Allfunds Group plc,"Castle Street, 65",Liverpool,Merseyside
+provRCP385UK,RIT Capital Partners,"George Street, 26",Edinburgh,City of Edinburgh
+provMaU551UK,Manchester United plc,"Mathew Street, 95",Liverpool,Merseyside
+provRot145UK,Rotork plc,"Broad Street, 92",Birmingham,West Midlands
+provCom628UK,Computacenter plc,"Boar Lane, 38",Leeds,West Yorkshire
+provTBB562UK,Tritax Big Box REIT plc,"George Street, 75",Edinburgh,City of Edinburgh
+provASI979UK,Atlantica Sustainable Infrastructure plc,"King Street, 91",Manchester,Greater Manchester
+provOSG835UK,OSB Group plc,"High Street, 38",Leicester,Leicestershire
+provEne685UK,Energean plc,"George Street, 37",Edinburgh,City of Edinburgh
+provViE732UK,Vivo Energy plc,"Baker Street, 33",London,Greater London
+provAIG289SP,"Amadeus IT Group, SA","La Rambla, 41",Barcelona,Barcelona
+provInS639SP,"Indra Sistemas, SA","Calle Larga, 42",Jerez de la Frontera,Cádiz
+provSac959SP,"Sacyr, SA","Avenida de la Constitución, 95",Seville,Seville
+provApS922SP,"Applus Services, SA","Avenida Teniente Flomesta, 52",Murcia,Murcia
+provPrC249SP,"Prosegur Cash, SA","Avenida de la Constitución, 23",Seville,Seville
+provZSS361SP,"Zambal Spain Socimi, SA","Passeig de Gràcia, 92",Barcelona,Barcelona
+provGDA071SP,"Global Dominion Access, SA","Paseo de Colón, 80",Seville,Seville
+provTal685SP,Talgo SA,"Passeig de Gràcia, 35",Barcelona,Barcelona
+provSPH558SP,"Soltec Power Holdings, SA","Gran Vía, 15",Bilbao,Biscay
+provOHL343SP,"Obrascón Huarte Lain, SA","Gran Vía, 19",Bilbao,Biscay
+provGES446SP,"Grupo Empresarial San José, SA","Plaça Major, 45",Palma,Balearic Islands
+provDeo025SP,"Deoleo, SA","Passeig des Born, 24",Palma,Balearic Islands
+provGdA043SP,"General de Alquiler de Maquinaria, SA","La Rambla, 23",Barcelona,Barcelona
+provAgC974SP,Agile Content SA,"Plaça Major, 5",Palma,Balearic Islands
+provTIS088SP,Trajano Iberia Socimi SA,"Calle Larga, 87",Jerez de la Frontera,Cádiz
+provDuF994SP,"Duro Felguera, SA","Calle Sevilla, 34",Jerez de la Frontera,Cádiz
+provAnt183SP,"Antevenio, SA","Passeig des Born, 58",Palma,Balearic Islands
+provFaB915SP,Facephi Biometria SA,"Carrer de la Pau, 80",Valencia,Valencia
+provAdL707SP,Asturiana de Laminados SA,"Calle Larga, 49",Jerez de la Frontera,Cádiz
+provUAS964IT,UnipolSai Assicurazioni S.p.A.,"Via dell'Indipendenza, 90",Bologna,Emilia-Romagna
+provBBS716IT,BPER Banca S.p.A.,"Corso Vittorio Emanuele II, 50",Bari,Apulia
+provBGS521IT,Banca Generali S.p.A.,"Spaccanapoli, 24",Naples,Campania
+provSFS792IT,Salvatore Ferragamo S.p.A.,"Via Veneto, 73",Rome,Lazio
+provEne004IT,Enervit SpA,"Via Garibaldi, 16",Catania,Sicily
+provBFS790IT,Banca Farmafactoring S.p.A.,"Via Etnea, 11",Catania,Sicily
+provRWS581IT,Rai Way S.p.A.,"Via Toledo, 84",Naples,Campania
+provB.S543IT,B.F. S.p.A.,"Via XX Settembre, 11",Genoa,Liguria
+provRDM331IT,Reno De Medici S.p.A.,"Corso Vittorio Emanuele, 36",Palermo,Sicily
+provAsS356IT,Ascopiave S.p.A.,"Corso Cavour, 70",Bari,Apulia
+provRMS001IT,RCS MediaGroup S.p.A.,"Corso Vittorio Emanuele II, 63",Bari,Apulia
+provFUM061IT,Franchi Umberto Marmi S.p.A.,"Via Crociferi, 81",Catania,Sicily
+provAsS129IT,Assiteca S.p.A.,"Piazza della Repubblica, 42",Florence,Tuscany
+provPIS094IT,PITECO S.p.A.,"Via XX Settembre, 82",Genoa,Liguria
+provOrS801IT,Orsero S.p.A.,"Via Veneto, 36",Rome,Lazio
+provIGS852IT,Intek Group S.p.A.,"Via Roma, 54",Turin,Piedmont
+provSaS872IT,Sabaf S.p.A.,"Via San Lorenzo, 57",Genoa,Liguria
+provInS880IT,Intred S.p.A.,"Via Roma, 70",Turin,Piedmont
+provTTA249IT,TAS Tecnologia Avanzata dei Sistemi S.p.A.,"Via Toledo, 20",Naples,Campania
+provEMC389IT,Energica Motor Company S.p.A.,"Via Crociferi, 26",Catania,Sicily
+provGla904IR,Glanbia plc,"Henry Street, 95",Limerick,Limerick
+provGlP735IR,Glenveagh Properties plc,"Grafton Street, 27",Dublin,Dublin
+provUni273IR,Uniphar plc,"Grand Parade, 40",Cork,Cork
+provMaC196IR,Malin Corp plc,"Eyre Square, 61",Galway,Galway
+provEQT795IR,EQTEC plc,"O'Connell Street, 49",Waterford,Waterford
+provApp240IR,Applegreen plc,"O'Connell Street, 19",Waterford,Waterford
+provMal000IR,Mallinckrodt plc,"Henry Street, 4",Limerick,Limerick

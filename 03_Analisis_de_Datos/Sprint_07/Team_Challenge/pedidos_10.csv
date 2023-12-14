@@ -1,0 +1,11 @@
+ID_pedido,ID_proveedor,Fecha,Estado
+pedi835935KUQHTG,provBNP829FR,31/10/2023,['Pagado']
+pedi062355COKKJZ,provBNP829FR,14/09/2023,['Distribuido']
+pedi991512CEFFKQ,provAka495GE,12/09/2023,['Almacenado']
+pedi078656LVFYWO,provTBB562UK,07/07/2023,['Almacenado']
+pedi230218GJMBYO,provAka495GE,06/07/2023,['Distribuido']
+pedi374632UGUYKC,provPrS439IT,17/06/2023,['Almacenado']
+pedi173150SQKHJF,provTBB562UK,13/04/2023,['Por hacer']
+pedi035898NSFLPT,provBNP829FR,12/04/2023,['Por hacer']
+pedi651213FNTZCH,provAka495GE,08/04/2023,['Por hacer']
+pedi491807WSRENF,provPrS439IT,03/03/2023,['Distribuido']

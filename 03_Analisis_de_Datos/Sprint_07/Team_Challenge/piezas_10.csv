@@ -1,0 +1,701 @@
+ID_pieza,Nombre,Color,Precio,ID_categoría
+piezHil424RjMer,Hilos,Rojo,"5,7 €",cateMerc333
+piezHil354AzMer,Hilos,Azul,"5,7 €",cateMerc333
+piezHil365AmMer,Hilos,Amarillo,"5,7 €",cateMerc333
+piezHil639VeMer,Hilos,Verde,"5,7 €",cateMerc333
+piezHil886NaMer,Hilos,Naranja,"5,7 €",cateMerc333
+piezHil116MoMer,Hilos,Morado,"5,7 €",cateMerc333
+piezHil367NgMer,Hilos,Negro,"5,7 €",cateMerc333
+piezHil708BlMer,Hilos,Blanco,"5,7 €",cateMerc333
+piezHil649RsMer,Hilos,Rosa,"5,7 €",cateMerc333
+piezHil322MrMer,Hilos,Marrón,"5,7 €",cateMerc333
+piezAgu310RjMer,Agujas,Rojo,"7,07 €",cateMerc333
+piezAgu138AzMer,Agujas,Azul,"7,07 €",cateMerc333
+piezAgu351AmMer,Agujas,Amarillo,"7,07 €",cateMerc333
+piezAgu198VeMer,Agujas,Verde,"7,07 €",cateMerc333
+piezAgu568NaMer,Agujas,Naranja,"7,07 €",cateMerc333
+piezAgu903MoMer,Agujas,Morado,"7,07 €",cateMerc333
+piezAgu346NgMer,Agujas,Negro,"7,07 €",cateMerc333
+piezAgu585BlMer,Agujas,Blanco,"7,07 €",cateMerc333
+piezAgu552RsMer,Agujas,Rosa,"7,07 €",cateMerc333
+piezAgu460MrMer,Agujas,Marrón,"7,07 €",cateMerc333
+piezBot343RjMer,Botones,Rojo,"1,95 €",cateMerc333
+piezBot248AzMer,Botones,Azul,"1,95 €",cateMerc333
+piezBot880AmMer,Botones,Amarillo,"1,95 €",cateMerc333
+piezBot413VeMer,Botones,Verde,"1,95 €",cateMerc333
+piezBot358NaMer,Botones,Naranja,"1,95 €",cateMerc333
+piezBot552MoMer,Botones,Morado,"1,95 €",cateMerc333
+piezBot906NgMer,Botones,Negro,"1,95 €",cateMerc333
+piezBot174BlMer,Botones,Blanco,"1,95 €",cateMerc333
+piezBot230RsMer,Botones,Rosa,"1,95 €",cateMerc333
+piezBot700MrMer,Botones,Marrón,"1,95 €",cateMerc333
+piezCin052RjMer,Cintas,Rojo,"4,3 €",cateMerc333
+piezCin547AzMer,Cintas,Azul,"4,3 €",cateMerc333
+piezCin277AmMer,Cintas,Amarillo,"4,3 €",cateMerc333
+piezCin364VeMer,Cintas,Verde,"4,3 €",cateMerc333
+piezCin707NaMer,Cintas,Naranja,"4,3 €",cateMerc333
+piezCin053MoMer,Cintas,Morado,"4,3 €",cateMerc333
+piezCin492NgMer,Cintas,Negro,"4,3 €",cateMerc333
+piezCin455BlMer,Cintas,Blanco,"4,3 €",cateMerc333
+piezCin776RsMer,Cintas,Rosa,"4,3 €",cateMerc333
+piezCin141MrMer,Cintas,Marrón,"4,3 €",cateMerc333
+piezEnc555RjMer,Encajes,Rojo,"2,19 €",cateMerc333
+piezEnc541AzMer,Encajes,Azul,"2,19 €",cateMerc333
+piezEnc070AmMer,Encajes,Amarillo,"2,19 €",cateMerc333
+piezEnc151VeMer,Encajes,Verde,"2,19 €",cateMerc333
+piezEnc824NaMer,Encajes,Naranja,"2,19 €",cateMerc333
+piezEnc151MoMer,Encajes,Morado,"2,19 €",cateMerc333
+piezEnc984NgMer,Encajes,Negro,"2,19 €",cateMerc333
+piezEnc858BlMer,Encajes,Blanco,"2,19 €",cateMerc333
+piezEnc774RsMer,Encajes,Rosa,"2,19 €",cateMerc333
+piezEnc534MrMer,Encajes,Marrón,"2,19 €",cateMerc333
+piezCre630RjMer,Cremalleras,Rojo,"1,43 €",cateMerc333
+piezCre806AzMer,Cremalleras,Azul,"1,43 €",cateMerc333
+piezCre820AmMer,Cremalleras,Amarillo,"1,43 €",cateMerc333
+piezCre076VeMer,Cremalleras,Verde,"1,43 €",cateMerc333
+piezCre915NaMer,Cremalleras,Naranja,"1,43 €",cateMerc333
+piezCre124MoMer,Cremalleras,Morado,"1,43 €",cateMerc333
+piezCre843NgMer,Cremalleras,Negro,"1,43 €",cateMerc333
+piezCre778BlMer,Cremalleras,Blanco,"1,43 €",cateMerc333
+piezCre608RsMer,Cremalleras,Rosa,"1,43 €",cateMerc333
+piezCre318MrMer,Cremalleras,Marrón,"1,43 €",cateMerc333
+piezCin531RjMer,Cinturones,Rojo,"6,81 €",cateMerc333
+piezCin216AzMer,Cinturones,Azul,"6,81 €",cateMerc333
+piezCin950AmMer,Cinturones,Amarillo,"6,81 €",cateMerc333
+piezCin321VeMer,Cinturones,Verde,"6,81 €",cateMerc333
+piezCin762NaMer,Cinturones,Naranja,"6,81 €",cateMerc333
+piezCin360MoMer,Cinturones,Morado,"6,81 €",cateMerc333
+piezCin245NgMer,Cinturones,Negro,"6,81 €",cateMerc333
+piezCin588BlMer,Cinturones,Blanco,"6,81 €",cateMerc333
+piezCin026RsMer,Cinturones,Rosa,"6,81 €",cateMerc333
+piezCin796MrMer,Cinturones,Marrón,"6,81 €",cateMerc333
+piezTij147RjMer,Tijeras,Rojo,"3,95 €",cateMerc333
+piezTij396AzMer,Tijeras,Azul,"3,95 €",cateMerc333
+piezTij750AmMer,Tijeras,Amarillo,"3,95 €",cateMerc333
+piezTij608VeMer,Tijeras,Verde,"3,95 €",cateMerc333
+piezTij728NaMer,Tijeras,Naranja,"3,95 €",cateMerc333
+piezTij843MoMer,Tijeras,Morado,"3,95 €",cateMerc333
+piezTij858NgMer,Tijeras,Negro,"3,95 €",cateMerc333
+piezTij958BlMer,Tijeras,Blanco,"3,95 €",cateMerc333
+piezTij654RsMer,Tijeras,Rosa,"3,95 €",cateMerc333
+piezTij488MrMer,Tijeras,Marrón,"3,95 €",cateMerc333
+piezTel663RjMer,Telas,Rojo,"3,88 €",cateMerc333
+piezTel840AzMer,Telas,Azul,"3,88 €",cateMerc333
+piezTel878AmMer,Telas,Amarillo,"3,88 €",cateMerc333
+piezTel829VeMer,Telas,Verde,"3,88 €",cateMerc333
+piezTel904NaMer,Telas,Naranja,"3,88 €",cateMerc333
+piezTel605MoMer,Telas,Morado,"3,88 €",cateMerc333
+piezTel444NgMer,Telas,Negro,"3,88 €",cateMerc333
+piezTel602BlMer,Telas,Blanco,"3,88 €",cateMerc333
+piezTel996RsMer,Telas,Rosa,"3,88 €",cateMerc333
+piezTel552MrMer,Telas,Marrón,"3,88 €",cateMerc333
+piezPeg715RjMer,Pegamento,Rojo,"7,31 €",cateMerc333
+piezPeg984AzMer,Pegamento,Azul,"7,31 €",cateMerc333
+piezPeg186AmMer,Pegamento,Amarillo,"7,31 €",cateMerc333
+piezPeg347VeMer,Pegamento,Verde,"7,31 €",cateMerc333
+piezPeg115NaMer,Pegamento,Naranja,"7,31 €",cateMerc333
+piezPeg404MoMer,Pegamento,Morado,"7,31 €",cateMerc333
+piezPeg441NgMer,Pegamento,Negro,"7,31 €",cateMerc333
+piezPeg138BlMer,Pegamento,Blanco,"7,31 €",cateMerc333
+piezPeg100RsMer,Pegamento,Rosa,"7,31 €",cateMerc333
+piezPeg063MrMer,Pegamento,Marrón,"7,31 €",cateMerc333
+piezMar512RjHer,Martillos,Rojo,"23,28 €",cateHerr775
+piezMar453AzHer,Martillos,Azul,"23,28 €",cateHerr775
+piezMar527AmHer,Martillos,Amarillo,"23,28 €",cateHerr775
+piezMar055VeHer,Martillos,Verde,"23,28 €",cateHerr775
+piezMar363NaHer,Martillos,Naranja,"23,28 €",cateHerr775
+piezMar724MoHer,Martillos,Morado,"23,28 €",cateHerr775
+piezMar264NgHer,Martillos,Negro,"23,28 €",cateHerr775
+piezMar777BlHer,Martillos,Blanco,"23,28 €",cateHerr775
+piezMar718RsHer,Martillos,Rosa,"23,28 €",cateHerr775
+piezMar219MrHer,Martillos,Marrón,"23,28 €",cateHerr775
+piezDes135RjHer,Destornilladores,Rojo,"6,86 €",cateHerr775
+piezDes853AzHer,Destornilladores,Azul,"6,86 €",cateHerr775
+piezDes921AmHer,Destornilladores,Amarillo,"6,86 €",cateHerr775
+piezDes356VeHer,Destornilladores,Verde,"6,86 €",cateHerr775
+piezDes358NaHer,Destornilladores,Naranja,"6,86 €",cateHerr775
+piezDes127MoHer,Destornilladores,Morado,"6,86 €",cateHerr775
+piezDes500NgHer,Destornilladores,Negro,"6,86 €",cateHerr775
+piezDes704BlHer,Destornilladores,Blanco,"6,86 €",cateHerr775
+piezDes763RsHer,Destornilladores,Rosa,"6,86 €",cateHerr775
+piezDes624MrHer,Destornilladores,Marrón,"6,86 €",cateHerr775
+piezSie572RjHer,Sierras,Rojo,"31,6 €",cateHerr775
+piezSie948AzHer,Sierras,Azul,"31,6 €",cateHerr775
+piezSie866AmHer,Sierras,Amarillo,"31,6 €",cateHerr775
+piezSie731VeHer,Sierras,Verde,"31,6 €",cateHerr775
+piezSie492NaHer,Sierras,Naranja,"31,6 €",cateHerr775
+piezSie666MoHer,Sierras,Morado,"31,6 €",cateHerr775
+piezSie994NgHer,Sierras,Negro,"31,6 €",cateHerr775
+piezSie959BlHer,Sierras,Blanco,"31,6 €",cateHerr775
+piezSie857RsHer,Sierras,Rosa,"31,6 €",cateHerr775
+piezSie645MrHer,Sierras,Marrón,"31,6 €",cateHerr775
+piezLla986RjHer,Llaves,Rojo,"37,52 €",cateHerr775
+piezLla839AzHer,Llaves,Azul,"37,52 €",cateHerr775
+piezLla995AmHer,Llaves,Amarillo,"37,52 €",cateHerr775
+piezLla363VeHer,Llaves,Verde,"37,52 €",cateHerr775
+piezLla759NaHer,Llaves,Naranja,"37,52 €",cateHerr775
+piezLla243MoHer,Llaves,Morado,"37,52 €",cateHerr775
+piezLla172NgHer,Llaves,Negro,"37,52 €",cateHerr775
+piezLla782BlHer,Llaves,Blanco,"37,52 €",cateHerr775
+piezLla458RsHer,Llaves,Rosa,"37,52 €",cateHerr775
+piezLla389MrHer,Llaves,Marrón,"37,52 €",cateHerr775
+piezPin281RjHer,Pinzas,Rojo,"22,55 €",cateHerr775
+piezPin191AzHer,Pinzas,Azul,"22,55 €",cateHerr775
+piezPin085AmHer,Pinzas,Amarillo,"22,55 €",cateHerr775
+piezPin986VeHer,Pinzas,Verde,"22,55 €",cateHerr775
+piezPin409NaHer,Pinzas,Naranja,"22,55 €",cateHerr775
+piezPin254MoHer,Pinzas,Morado,"22,55 €",cateHerr775
+piezPin619NgHer,Pinzas,Negro,"22,55 €",cateHerr775
+piezPin853BlHer,Pinzas,Blanco,"22,55 €",cateHerr775
+piezPin112RsHer,Pinzas,Rosa,"22,55 €",cateHerr775
+piezPin825MrHer,Pinzas,Marrón,"22,55 €",cateHerr775
+piezCim105RjHer,Cintas métricas,Rojo,"36,49 €",cateHerr775
+piezCim025AzHer,Cintas métricas,Azul,"36,49 €",cateHerr775
+piezCim458AmHer,Cintas métricas,Amarillo,"36,49 €",cateHerr775
+piezCim790VeHer,Cintas métricas,Verde,"36,49 €",cateHerr775
+piezCim827NaHer,Cintas métricas,Naranja,"36,49 €",cateHerr775
+piezCim625MoHer,Cintas métricas,Morado,"36,49 €",cateHerr775
+piezCim158NgHer,Cintas métricas,Negro,"36,49 €",cateHerr775
+piezCim450BlHer,Cintas métricas,Blanco,"36,49 €",cateHerr775
+piezCim919RsHer,Cintas métricas,Rosa,"36,49 €",cateHerr775
+piezCim052MrHer,Cintas métricas,Marrón,"36,49 €",cateHerr775
+piezTal845RjHer,Taladros,Rojo,"26,11 €",cateHerr775
+piezTal906AzHer,Taladros,Azul,"26,11 €",cateHerr775
+piezTal860AmHer,Taladros,Amarillo,"26,11 €",cateHerr775
+piezTal807VeHer,Taladros,Verde,"26,11 €",cateHerr775
+piezTal731NaHer,Taladros,Naranja,"26,11 €",cateHerr775
+piezTal669MoHer,Taladros,Morado,"26,11 €",cateHerr775
+piezTal122NgHer,Taladros,Negro,"26,11 €",cateHerr775
+piezTal337BlHer,Taladros,Blanco,"26,11 €",cateHerr775
+piezTal664RsHer,Taladros,Rosa,"26,11 €",cateHerr775
+piezTal314MrHer,Taladros,Marrón,"26,11 €",cateHerr775
+piezCin723RjHer,Cinceles,Rojo,"27,74 €",cateHerr775
+piezCin321AzHer,Cinceles,Azul,"27,74 €",cateHerr775
+piezCin236AmHer,Cinceles,Amarillo,"27,74 €",cateHerr775
+piezCin326VeHer,Cinceles,Verde,"27,74 €",cateHerr775
+piezCin438NaHer,Cinceles,Naranja,"27,74 €",cateHerr775
+piezCin472MoHer,Cinceles,Morado,"27,74 €",cateHerr775
+piezCin765NgHer,Cinceles,Negro,"27,74 €",cateHerr775
+piezCin959BlHer,Cinceles,Blanco,"27,74 €",cateHerr775
+piezCin526RsHer,Cinceles,Rosa,"27,74 €",cateHerr775
+piezCin369MrHer,Cinceles,Marrón,"27,74 €",cateHerr775
+piezNiv618RjHer,Niveles,Rojo,"26,56 €",cateHerr775
+piezNiv112AzHer,Niveles,Azul,"26,56 €",cateHerr775
+piezNiv175AmHer,Niveles,Amarillo,"26,56 €",cateHerr775
+piezNiv209VeHer,Niveles,Verde,"26,56 €",cateHerr775
+piezNiv520NaHer,Niveles,Naranja,"26,56 €",cateHerr775
+piezNiv789MoHer,Niveles,Morado,"26,56 €",cateHerr775
+piezNiv832NgHer,Niveles,Negro,"26,56 €",cateHerr775
+piezNiv270BlHer,Niveles,Blanco,"26,56 €",cateHerr775
+piezNiv247RsHer,Niveles,Rosa,"26,56 €",cateHerr775
+piezNiv322MrHer,Niveles,Marrón,"26,56 €",cateHerr775
+piezLij165RjHer,Lijadoras,Rojo,"16,24 €",cateHerr775
+piezLij570AzHer,Lijadoras,Azul,"16,24 €",cateHerr775
+piezLij178AmHer,Lijadoras,Amarillo,"16,24 €",cateHerr775
+piezLij732VeHer,Lijadoras,Verde,"16,24 €",cateHerr775
+piezLij012NaHer,Lijadoras,Naranja,"16,24 €",cateHerr775
+piezLij236MoHer,Lijadoras,Morado,"16,24 €",cateHerr775
+piezLij104NgHer,Lijadoras,Negro,"16,24 €",cateHerr775
+piezLij404BlHer,Lijadoras,Blanco,"16,24 €",cateHerr775
+piezLij294RsHer,Lijadoras,Rosa,"16,24 €",cateHerr775
+piezLij197MrHer,Lijadoras,Marrón,"16,24 €",cateHerr775
+piezLad354RjCon,Ladrillos,Rojo,"44,65 €",cateCons806
+piezLad121AzCon,Ladrillos,Azul,"44,65 €",cateCons806
+piezLad467AmCon,Ladrillos,Amarillo,"44,65 €",cateCons806
+piezLad453VeCon,Ladrillos,Verde,"44,65 €",cateCons806
+piezLad593NaCon,Ladrillos,Naranja,"44,65 €",cateCons806
+piezLad559MoCon,Ladrillos,Morado,"44,65 €",cateCons806
+piezLad608NgCon,Ladrillos,Negro,"44,65 €",cateCons806
+piezLad755BlCon,Ladrillos,Blanco,"44,65 €",cateCons806
+piezLad897RsCon,Ladrillos,Rosa,"44,65 €",cateCons806
+piezLad935MrCon,Ladrillos,Marrón,"44,65 €",cateCons806
+piezCem180RjCon,Cemento,Rojo,"58,64 €",cateCons806
+piezCem984AzCon,Cemento,Azul,"58,64 €",cateCons806
+piezCem653AmCon,Cemento,Amarillo,"58,64 €",cateCons806
+piezCem888VeCon,Cemento,Verde,"58,64 €",cateCons806
+piezCem769NaCon,Cemento,Naranja,"58,64 €",cateCons806
+piezCem421MoCon,Cemento,Morado,"58,64 €",cateCons806
+piezCem536NgCon,Cemento,Negro,"58,64 €",cateCons806
+piezCem215BlCon,Cemento,Blanco,"58,64 €",cateCons806
+piezCem720RsCon,Cemento,Rosa,"58,64 €",cateCons806
+piezCem745MrCon,Cemento,Marrón,"58,64 €",cateCons806
+piezLdm496RjCon,Listón de madera,Rojo,"56,07 €",cateCons806
+piezLdm412AzCon,Listón de madera,Azul,"56,07 €",cateCons806
+piezLdm736AmCon,Listón de madera,Amarillo,"56,07 €",cateCons806
+piezLdm956VeCon,Listón de madera,Verde,"56,07 €",cateCons806
+piezLdm654NaCon,Listón de madera,Naranja,"56,07 €",cateCons806
+piezLdm775MoCon,Listón de madera,Morado,"56,07 €",cateCons806
+piezLdm421NgCon,Listón de madera,Negro,"56,07 €",cateCons806
+piezLdm233BlCon,Listón de madera,Blanco,"56,07 €",cateCons806
+piezLdm145RsCon,Listón de madera,Rosa,"56,07 €",cateCons806
+piezLdm216MrCon,Listón de madera,Marrón,"56,07 €",cateCons806
+piezPin874RjCon,Pintura,Rojo,"90,88 €",cateCons806
+piezPin744AzCon,Pintura,Azul,"90,88 €",cateCons806
+piezPin769AmCon,Pintura,Amarillo,"90,88 €",cateCons806
+piezPin444VeCon,Pintura,Verde,"90,88 €",cateCons806
+piezPin567NaCon,Pintura,Naranja,"90,88 €",cateCons806
+piezPin158MoCon,Pintura,Morado,"90,88 €",cateCons806
+piezPin933NgCon,Pintura,Negro,"90,88 €",cateCons806
+piezPin266BlCon,Pintura,Blanco,"90,88 €",cateCons806
+piezPin270RsCon,Pintura,Rosa,"90,88 €",cateCons806
+piezPin198MrCon,Pintura,Marrón,"90,88 €",cateCons806
+piezHdc609RjCon,Herramientas de construcción,Rojo,"16,66 €",cateCons806
+piezHdc202AzCon,Herramientas de construcción,Azul,"16,66 €",cateCons806
+piezHdc524AmCon,Herramientas de construcción,Amarillo,"16,66 €",cateCons806
+piezHdc811VeCon,Herramientas de construcción,Verde,"16,66 €",cateCons806
+piezHdc838NaCon,Herramientas de construcción,Naranja,"16,66 €",cateCons806
+piezHdc877MoCon,Herramientas de construcción,Morado,"16,66 €",cateCons806
+piezHdc558NgCon,Herramientas de construcción,Negro,"16,66 €",cateCons806
+piezHdc083BlCon,Herramientas de construcción,Blanco,"16,66 €",cateCons806
+piezHdc470RsCon,Herramientas de construcción,Rosa,"16,66 €",cateCons806
+piezHdc806MrCon,Herramientas de construcción,Marrón,"16,66 €",cateCons806
+piezYes342RjCon,Yeso,Rojo,"98,39 €",cateCons806
+piezYes148AzCon,Yeso,Azul,"98,39 €",cateCons806
+piezYes944AmCon,Yeso,Amarillo,"98,39 €",cateCons806
+piezYes083VeCon,Yeso,Verde,"98,39 €",cateCons806
+piezYes127NaCon,Yeso,Naranja,"98,39 €",cateCons806
+piezYes195MoCon,Yeso,Morado,"98,39 €",cateCons806
+piezYes326NgCon,Yeso,Negro,"98,39 €",cateCons806
+piezYes214BlCon,Yeso,Blanco,"98,39 €",cateCons806
+piezYes412RsCon,Yeso,Rosa,"98,39 €",cateCons806
+piezYes499MrCon,Yeso,Marrón,"98,39 €",cateCons806
+piezAzu761RjCon,Azulejos,Rojo,"40,68 €",cateCons806
+piezAzu008AzCon,Azulejos,Azul,"40,68 €",cateCons806
+piezAzu889AmCon,Azulejos,Amarillo,"40,68 €",cateCons806
+piezAzu520VeCon,Azulejos,Verde,"40,68 €",cateCons806
+piezAzu873NaCon,Azulejos,Naranja,"40,68 €",cateCons806
+piezAzu434MoCon,Azulejos,Morado,"40,68 €",cateCons806
+piezAzu212NgCon,Azulejos,Negro,"40,68 €",cateCons806
+piezAzu628BlCon,Azulejos,Blanco,"40,68 €",cateCons806
+piezAzu836RsCon,Azulejos,Rosa,"40,68 €",cateCons806
+piezAzu682MrCon,Azulejos,Marrón,"40,68 €",cateCons806
+piezCae099RjCon,Cables eléctricos,Rojo,"47,34 €",cateCons806
+piezCae106AzCon,Cables eléctricos,Azul,"47,34 €",cateCons806
+piezCae254AmCon,Cables eléctricos,Amarillo,"47,34 €",cateCons806
+piezCae675VeCon,Cables eléctricos,Verde,"47,34 €",cateCons806
+piezCae794NaCon,Cables eléctricos,Naranja,"47,34 €",cateCons806
+piezCae623MoCon,Cables eléctricos,Morado,"47,34 €",cateCons806
+piezCae039NgCon,Cables eléctricos,Negro,"47,34 €",cateCons806
+piezCae436BlCon,Cables eléctricos,Blanco,"47,34 €",cateCons806
+piezCae622RsCon,Cables eléctricos,Rosa,"47,34 €",cateCons806
+piezCae085MrCon,Cables eléctricos,Marrón,"47,34 €",cateCons806
+piezTdP149RjCon,Tubos de PVC,Rojo,"76,46 €",cateCons806
+piezTdP258AzCon,Tubos de PVC,Azul,"76,46 €",cateCons806
+piezTdP469AmCon,Tubos de PVC,Amarillo,"76,46 €",cateCons806
+piezTdP161VeCon,Tubos de PVC,Verde,"76,46 €",cateCons806
+piezTdP786NaCon,Tubos de PVC,Naranja,"76,46 €",cateCons806
+piezTdP983MoCon,Tubos de PVC,Morado,"76,46 €",cateCons806
+piezTdP281NgCon,Tubos de PVC,Negro,"76,46 €",cateCons806
+piezTdP278BlCon,Tubos de PVC,Blanco,"76,46 €",cateCons806
+piezTdP246RsCon,Tubos de PVC,Rosa,"76,46 €",cateCons806
+piezTdP402MrCon,Tubos de PVC,Marrón,"76,46 €",cateCons806
+piezCla971RjCon,Clavos,Rojo,"47,54 €",cateCons806
+piezCla211AzCon,Clavos,Azul,"47,54 €",cateCons806
+piezCla322AmCon,Clavos,Amarillo,"47,54 €",cateCons806
+piezCla389VeCon,Clavos,Verde,"47,54 €",cateCons806
+piezCla032NaCon,Clavos,Naranja,"47,54 €",cateCons806
+piezCla268MoCon,Clavos,Morado,"47,54 €",cateCons806
+piezCla757NgCon,Clavos,Negro,"47,54 €",cateCons806
+piezCla340BlCon,Clavos,Blanco,"47,54 €",cateCons806
+piezCla768RsCon,Clavos,Rosa,"47,54 €",cateCons806
+piezCla660MrCon,Clavos,Marrón,"47,54 €",cateCons806
+piezMaq486RjCos,Maquillaje,Rojo,"18,95 €",cateCosm990
+piezMaq405AzCos,Maquillaje,Azul,"18,95 €",cateCosm990
+piezMaq410AmCos,Maquillaje,Amarillo,"18,95 €",cateCosm990
+piezMaq077VeCos,Maquillaje,Verde,"18,95 €",cateCosm990
+piezMaq095NaCos,Maquillaje,Naranja,"18,95 €",cateCosm990
+piezMaq227MoCos,Maquillaje,Morado,"18,95 €",cateCosm990
+piezMaq232NgCos,Maquillaje,Negro,"18,95 €",cateCosm990
+piezMaq168BlCos,Maquillaje,Blanco,"18,95 €",cateCosm990
+piezMaq620RsCos,Maquillaje,Rosa,"18,95 €",cateCosm990
+piezMaq035MrCos,Maquillaje,Marrón,"18,95 €",cateCosm990
+piezCre385RjCos,Cremas,Rojo,"8,75 €",cateCosm990
+piezCre791AzCos,Cremas,Azul,"8,75 €",cateCosm990
+piezCre373AmCos,Cremas,Amarillo,"8,75 €",cateCosm990
+piezCre774VeCos,Cremas,Verde,"8,75 €",cateCosm990
+piezCre068NaCos,Cremas,Naranja,"8,75 €",cateCosm990
+piezCre966MoCos,Cremas,Morado,"8,75 €",cateCosm990
+piezCre607NgCos,Cremas,Negro,"8,75 €",cateCosm990
+piezCre823BlCos,Cremas,Blanco,"8,75 €",cateCosm990
+piezCre775RsCos,Cremas,Rosa,"8,75 €",cateCosm990
+piezCre816MrCos,Cremas,Marrón,"8,75 €",cateCosm990
+piezPer293RjCos,Perfumes,Rojo,"14,14 €",cateCosm990
+piezPer896AzCos,Perfumes,Azul,"14,14 €",cateCosm990
+piezPer633AmCos,Perfumes,Amarillo,"14,14 €",cateCosm990
+piezPer788VeCos,Perfumes,Verde,"14,14 €",cateCosm990
+piezPer629NaCos,Perfumes,Naranja,"14,14 €",cateCosm990
+piezPer990MoCos,Perfumes,Morado,"14,14 €",cateCosm990
+piezPer297NgCos,Perfumes,Negro,"14,14 €",cateCosm990
+piezPer170BlCos,Perfumes,Blanco,"14,14 €",cateCosm990
+piezPer181RsCos,Perfumes,Rosa,"14,14 €",cateCosm990
+piezPer341MrCos,Perfumes,Marrón,"14,14 €",cateCosm990
+piezPin367RjCos,Pintalabios,Rojo,"15,28 €",cateCosm990
+piezPin086AzCos,Pintalabios,Azul,"15,28 €",cateCosm990
+piezPin842AmCos,Pintalabios,Amarillo,"15,28 €",cateCosm990
+piezPin490VeCos,Pintalabios,Verde,"15,28 €",cateCosm990
+piezPin682NaCos,Pintalabios,Naranja,"15,28 €",cateCosm990
+piezPin791MoCos,Pintalabios,Morado,"15,28 €",cateCosm990
+piezPin216NgCos,Pintalabios,Negro,"15,28 €",cateCosm990
+piezPin531BlCos,Pintalabios,Blanco,"15,28 €",cateCosm990
+piezPin023RsCos,Pintalabios,Rosa,"15,28 €",cateCosm990
+piezPin928MrCos,Pintalabios,Marrón,"15,28 €",cateCosm990
+piezCha065RjCos,Champú,Rojo,"13,35 €",cateCosm990
+piezCha041AzCos,Champú,Azul,"13,35 €",cateCosm990
+piezCha174AmCos,Champú,Amarillo,"13,35 €",cateCosm990
+piezCha007VeCos,Champú,Verde,"13,35 €",cateCosm990
+piezCha523NaCos,Champú,Naranja,"13,35 €",cateCosm990
+piezCha309MoCos,Champú,Morado,"13,35 €",cateCosm990
+piezCha252NgCos,Champú,Negro,"13,35 €",cateCosm990
+piezCha869BlCos,Champú,Blanco,"13,35 €",cateCosm990
+piezCha511RsCos,Champú,Rosa,"13,35 €",cateCosm990
+piezCha035MrCos,Champú,Marrón,"13,35 €",cateCosm990
+piezEdu228RjCos,Esmaltes de uñas,Rojo,"8,82 €",cateCosm990
+piezEdu591AzCos,Esmaltes de uñas,Azul,"8,82 €",cateCosm990
+piezEdu068AmCos,Esmaltes de uñas,Amarillo,"8,82 €",cateCosm990
+piezEdu310VeCos,Esmaltes de uñas,Verde,"8,82 €",cateCosm990
+piezEdu005NaCos,Esmaltes de uñas,Naranja,"8,82 €",cateCosm990
+piezEdu565MoCos,Esmaltes de uñas,Morado,"8,82 €",cateCosm990
+piezEdu860NgCos,Esmaltes de uñas,Negro,"8,82 €",cateCosm990
+piezEdu950BlCos,Esmaltes de uñas,Blanco,"8,82 €",cateCosm990
+piezEdu767RsCos,Esmaltes de uñas,Rosa,"8,82 €",cateCosm990
+piezEdu155MrCos,Esmaltes de uñas,Marrón,"8,82 €",cateCosm990
+piezBdm170RjCos,Brochas de maquillaje,Rojo,"12,46 €",cateCosm990
+piezBdm920AzCos,Brochas de maquillaje,Azul,"12,46 €",cateCosm990
+piezBdm302AmCos,Brochas de maquillaje,Amarillo,"12,46 €",cateCosm990
+piezBdm164VeCos,Brochas de maquillaje,Verde,"12,46 €",cateCosm990
+piezBdm141NaCos,Brochas de maquillaje,Naranja,"12,46 €",cateCosm990
+piezBdm533MoCos,Brochas de maquillaje,Morado,"12,46 €",cateCosm990
+piezBdm229NgCos,Brochas de maquillaje,Negro,"12,46 €",cateCosm990
+piezBdm122BlCos,Brochas de maquillaje,Blanco,"12,46 €",cateCosm990
+piezBdm543RsCos,Brochas de maquillaje,Rosa,"12,46 €",cateCosm990
+piezBdm146MrCos,Brochas de maquillaje,Marrón,"12,46 €",cateCosm990
+piezAce156RjCos,Aceites esenciales,Rojo,"4,44 €",cateCosm990
+piezAce290AzCos,Aceites esenciales,Azul,"4,44 €",cateCosm990
+piezAce902AmCos,Aceites esenciales,Amarillo,"4,44 €",cateCosm990
+piezAce202VeCos,Aceites esenciales,Verde,"4,44 €",cateCosm990
+piezAce657NaCos,Aceites esenciales,Naranja,"4,44 €",cateCosm990
+piezAce984MoCos,Aceites esenciales,Morado,"4,44 €",cateCosm990
+piezAce312NgCos,Aceites esenciales,Negro,"4,44 €",cateCosm990
+piezAce564BlCos,Aceites esenciales,Blanco,"4,44 €",cateCosm990
+piezAce068RsCos,Aceites esenciales,Rosa,"4,44 €",cateCosm990
+piezAce539MrCos,Aceites esenciales,Marrón,"4,44 €",cateCosm990
+piezMaf589RjCos,Mascarillas faciales,Rojo,"17,38 €",cateCosm990
+piezMaf621AzCos,Mascarillas faciales,Azul,"17,38 €",cateCosm990
+piezMaf832AmCos,Mascarillas faciales,Amarillo,"17,38 €",cateCosm990
+piezMaf153VeCos,Mascarillas faciales,Verde,"17,38 €",cateCosm990
+piezMaf353NaCos,Mascarillas faciales,Naranja,"17,38 €",cateCosm990
+piezMaf622MoCos,Mascarillas faciales,Morado,"17,38 €",cateCosm990
+piezMaf548NgCos,Mascarillas faciales,Negro,"17,38 €",cateCosm990
+piezMaf698BlCos,Mascarillas faciales,Blanco,"17,38 €",cateCosm990
+piezMaf145RsCos,Mascarillas faciales,Rosa,"17,38 €",cateCosm990
+piezMaf705MrCos,Mascarillas faciales,Marrón,"17,38 €",cateCosm990
+piezLoc174RjCos,Lociones corporales,Rojo,"10,43 €",cateCosm990
+piezLoc230AzCos,Lociones corporales,Azul,"10,43 €",cateCosm990
+piezLoc082AmCos,Lociones corporales,Amarillo,"10,43 €",cateCosm990
+piezLoc556VeCos,Lociones corporales,Verde,"10,43 €",cateCosm990
+piezLoc236NaCos,Lociones corporales,Naranja,"10,43 €",cateCosm990
+piezLoc774MoCos,Lociones corporales,Morado,"10,43 €",cateCosm990
+piezLoc056NgCos,Lociones corporales,Negro,"10,43 €",cateCosm990
+piezLoc084BlCos,Lociones corporales,Blanco,"10,43 €",cateCosm990
+piezLoc627RsCos,Lociones corporales,Rosa,"10,43 €",cateCosm990
+piezLoc144MrCos,Lociones corporales,Marrón,"10,43 €",cateCosm990
+piezSof316RjMob,Sofás,Rojo,"256,17 €",cateMobi809
+piezSof266AzMob,Sofás,Azul,"256,17 €",cateMobi809
+piezSof288AmMob,Sofás,Amarillo,"256,17 €",cateMobi809
+piezSof111VeMob,Sofás,Verde,"256,17 €",cateMobi809
+piezSof320NaMob,Sofás,Naranja,"256,17 €",cateMobi809
+piezSof864MoMob,Sofás,Morado,"256,17 €",cateMobi809
+piezSof924NgMob,Sofás,Negro,"256,17 €",cateMobi809
+piezSof059BlMob,Sofás,Blanco,"256,17 €",cateMobi809
+piezSof667RsMob,Sofás,Rosa,"256,17 €",cateMobi809
+piezSof411MrMob,Sofás,Marrón,"256,17 €",cateMobi809
+piezMes918RjMob,Mesas,Rojo,"279,56 €",cateMobi809
+piezMes865AzMob,Mesas,Azul,"279,56 €",cateMobi809
+piezMes347AmMob,Mesas,Amarillo,"279,56 €",cateMobi809
+piezMes872VeMob,Mesas,Verde,"279,56 €",cateMobi809
+piezMes025NaMob,Mesas,Naranja,"279,56 €",cateMobi809
+piezMes085MoMob,Mesas,Morado,"279,56 €",cateMobi809
+piezMes001NgMob,Mesas,Negro,"279,56 €",cateMobi809
+piezMes442BlMob,Mesas,Blanco,"279,56 €",cateMobi809
+piezMes521RsMob,Mesas,Rosa,"279,56 €",cateMobi809
+piezMes373MrMob,Mesas,Marrón,"279,56 €",cateMobi809
+piezSil956RjMob,Sillas,Rojo,"226,85 €",cateMobi809
+piezSil310AzMob,Sillas,Azul,"226,85 €",cateMobi809
+piezSil778AmMob,Sillas,Amarillo,"226,85 €",cateMobi809
+piezSil732VeMob,Sillas,Verde,"226,85 €",cateMobi809
+piezSil139NaMob,Sillas,Naranja,"226,85 €",cateMobi809
+piezSil716MoMob,Sillas,Morado,"226,85 €",cateMobi809
+piezSil904NgMob,Sillas,Negro,"226,85 €",cateMobi809
+piezSil613BlMob,Sillas,Blanco,"226,85 €",cateMobi809
+piezSil591RsMob,Sillas,Rosa,"226,85 €",cateMobi809
+piezSil451MrMob,Sillas,Marrón,"226,85 €",cateMobi809
+piezArm621RjMob,Armarios,Rojo,"60,72 €",cateMobi809
+piezArm221AzMob,Armarios,Azul,"60,72 €",cateMobi809
+piezArm706AmMob,Armarios,Amarillo,"60,72 €",cateMobi809
+piezArm723VeMob,Armarios,Verde,"60,72 €",cateMobi809
+piezArm562NaMob,Armarios,Naranja,"60,72 €",cateMobi809
+piezArm283MoMob,Armarios,Morado,"60,72 €",cateMobi809
+piezArm078NgMob,Armarios,Negro,"60,72 €",cateMobi809
+piezArm745BlMob,Armarios,Blanco,"60,72 €",cateMobi809
+piezArm280RsMob,Armarios,Rosa,"60,72 €",cateMobi809
+piezArm332MrMob,Armarios,Marrón,"60,72 €",cateMobi809
+piezCam666RjMob,Camas,Rojo,"172,92 €",cateMobi809
+piezCam204AzMob,Camas,Azul,"172,92 €",cateMobi809
+piezCam424AmMob,Camas,Amarillo,"172,92 €",cateMobi809
+piezCam207VeMob,Camas,Verde,"172,92 €",cateMobi809
+piezCam645NaMob,Camas,Naranja,"172,92 €",cateMobi809
+piezCam523MoMob,Camas,Morado,"172,92 €",cateMobi809
+piezCam877NgMob,Camas,Negro,"172,92 €",cateMobi809
+piezCam198BlMob,Camas,Blanco,"172,92 €",cateMobi809
+piezCam280RsMob,Camas,Rosa,"172,92 €",cateMobi809
+piezCam379MrMob,Camas,Marrón,"172,92 €",cateMobi809
+piezEst347RjMob,Estanterías,Rojo,"461,65 €",cateMobi809
+piezEst897AzMob,Estanterías,Azul,"461,65 €",cateMobi809
+piezEst084AmMob,Estanterías,Amarillo,"461,65 €",cateMobi809
+piezEst461VeMob,Estanterías,Verde,"461,65 €",cateMobi809
+piezEst115NaMob,Estanterías,Naranja,"461,65 €",cateMobi809
+piezEst351MoMob,Estanterías,Morado,"461,65 €",cateMobi809
+piezEst557NgMob,Estanterías,Negro,"461,65 €",cateMobi809
+piezEst268BlMob,Estanterías,Blanco,"461,65 €",cateMobi809
+piezEst376RsMob,Estanterías,Rosa,"461,65 €",cateMobi809
+piezEst631MrMob,Estanterías,Marrón,"461,65 €",cateMobi809
+piezEsc658RjMob,Escritorios,Rojo,"101,05 €",cateMobi809
+piezEsc385AzMob,Escritorios,Azul,"101,05 €",cateMobi809
+piezEsc528AmMob,Escritorios,Amarillo,"101,05 €",cateMobi809
+piezEsc416VeMob,Escritorios,Verde,"101,05 €",cateMobi809
+piezEsc046NaMob,Escritorios,Naranja,"101,05 €",cateMobi809
+piezEsc173MoMob,Escritorios,Morado,"101,05 €",cateMobi809
+piezEsc841NgMob,Escritorios,Negro,"101,05 €",cateMobi809
+piezEsc489BlMob,Escritorios,Blanco,"101,05 €",cateMobi809
+piezEsc044RsMob,Escritorios,Rosa,"101,05 €",cateMobi809
+piezEsc822MrMob,Escritorios,Marrón,"101,05 €",cateMobi809
+piezLám389RjMob,Lámparas,Rojo,"233,66 €",cateMobi809
+piezLám648AzMob,Lámparas,Azul,"233,66 €",cateMobi809
+piezLám517AmMob,Lámparas,Amarillo,"233,66 €",cateMobi809
+piezLám295VeMob,Lámparas,Verde,"233,66 €",cateMobi809
+piezLám321NaMob,Lámparas,Naranja,"233,66 €",cateMobi809
+piezLám959MoMob,Lámparas,Morado,"233,66 €",cateMobi809
+piezLám211NgMob,Lámparas,Negro,"233,66 €",cateMobi809
+piezLám620BlMob,Lámparas,Blanco,"233,66 €",cateMobi809
+piezLám097RsMob,Lámparas,Rosa,"233,66 €",cateMobi809
+piezLám621MrMob,Lámparas,Marrón,"233,66 €",cateMobi809
+piezMdn866RjMob,Mesitas de noche,Rojo,"447,34 €",cateMobi809
+piezMdn447AzMob,Mesitas de noche,Azul,"447,34 €",cateMobi809
+piezMdn075AmMob,Mesitas de noche,Amarillo,"447,34 €",cateMobi809
+piezMdn618VeMob,Mesitas de noche,Verde,"447,34 €",cateMobi809
+piezMdn368NaMob,Mesitas de noche,Naranja,"447,34 €",cateMobi809
+piezMdn814MoMob,Mesitas de noche,Morado,"447,34 €",cateMobi809
+piezMdn761NgMob,Mesitas de noche,Negro,"447,34 €",cateMobi809
+piezMdn315BlMob,Mesitas de noche,Blanco,"447,34 €",cateMobi809
+piezMdn549RsMob,Mesitas de noche,Rosa,"447,34 €",cateMobi809
+piezMdn248MrMob,Mesitas de noche,Marrón,"447,34 €",cateMobi809
+piezSil821RjMob,Sillones,Rojo,"250,47 €",cateMobi809
+piezSil274AzMob,Sillones,Azul,"250,47 €",cateMobi809
+piezSil623AmMob,Sillones,Amarillo,"250,47 €",cateMobi809
+piezSil663VeMob,Sillones,Verde,"250,47 €",cateMobi809
+piezSil668NaMob,Sillones,Naranja,"250,47 €",cateMobi809
+piezSil775MoMob,Sillones,Morado,"250,47 €",cateMobi809
+piezSil768NgMob,Sillones,Negro,"250,47 €",cateMobi809
+piezSil682BlMob,Sillones,Blanco,"250,47 €",cateMobi809
+piezSil321RsMob,Sillones,Rosa,"250,47 €",cateMobi809
+piezSil067MrMob,Sillones,Marrón,"250,47 €",cateMobi809
+piezFru336RjAli,Frutas,Rojo,"4,81 €",cateAlim456
+piezFru772AzAli,Frutas,Azul,"4,81 €",cateAlim456
+piezFru891AmAli,Frutas,Amarillo,"4,81 €",cateAlim456
+piezFru948VeAli,Frutas,Verde,"4,81 €",cateAlim456
+piezFru708NaAli,Frutas,Naranja,"4,81 €",cateAlim456
+piezFru241MoAli,Frutas,Morado,"4,81 €",cateAlim456
+piezFru761NgAli,Frutas,Negro,"4,81 €",cateAlim456
+piezFru295BlAli,Frutas,Blanco,"4,81 €",cateAlim456
+piezFru934RsAli,Frutas,Rosa,"4,81 €",cateAlim456
+piezFru663MrAli,Frutas,Marrón,"4,81 €",cateAlim456
+piezVer918RjAli,Verduras,Rojo,"3,3 €",cateAlim456
+piezVer548AzAli,Verduras,Azul,"3,3 €",cateAlim456
+piezVer054AmAli,Verduras,Amarillo,"3,3 €",cateAlim456
+piezVer192VeAli,Verduras,Verde,"3,3 €",cateAlim456
+piezVer158NaAli,Verduras,Naranja,"3,3 €",cateAlim456
+piezVer547MoAli,Verduras,Morado,"3,3 €",cateAlim456
+piezVer001NgAli,Verduras,Negro,"3,3 €",cateAlim456
+piezVer385BlAli,Verduras,Blanco,"3,3 €",cateAlim456
+piezVer691RsAli,Verduras,Rosa,"3,3 €",cateAlim456
+piezVer985MrAli,Verduras,Marrón,"3,3 €",cateAlim456
+piezCar362RjAli,Carnes,Rojo,"1,11 €",cateAlim456
+piezCar571AzAli,Carnes,Azul,"1,11 €",cateAlim456
+piezCar597AmAli,Carnes,Amarillo,"1,11 €",cateAlim456
+piezCar330VeAli,Carnes,Verde,"1,11 €",cateAlim456
+piezCar997NaAli,Carnes,Naranja,"1,11 €",cateAlim456
+piezCar868MoAli,Carnes,Morado,"1,11 €",cateAlim456
+piezCar632NgAli,Carnes,Negro,"1,11 €",cateAlim456
+piezCar296BlAli,Carnes,Blanco,"1,11 €",cateAlim456
+piezCar378RsAli,Carnes,Rosa,"1,11 €",cateAlim456
+piezCar027MrAli,Carnes,Marrón,"1,11 €",cateAlim456
+piezPes317RjAli,Pescados,Rojo,"1,49 €",cateAlim456
+piezPes246AzAli,Pescados,Azul,"1,49 €",cateAlim456
+piezPes928AmAli,Pescados,Amarillo,"1,49 €",cateAlim456
+piezPes152VeAli,Pescados,Verde,"1,49 €",cateAlim456
+piezPes384NaAli,Pescados,Naranja,"1,49 €",cateAlim456
+piezPes049MoAli,Pescados,Morado,"1,49 €",cateAlim456
+piezPes047NgAli,Pescados,Negro,"1,49 €",cateAlim456
+piezPes048BlAli,Pescados,Blanco,"1,49 €",cateAlim456
+piezPes912RsAli,Pescados,Rosa,"1,49 €",cateAlim456
+piezPes834MrAli,Pescados,Marrón,"1,49 €",cateAlim456
+piezPre028RjAli,Productos enlatados,Rojo,"4,58 €",cateAlim456
+piezPre214AzAli,Productos enlatados,Azul,"4,58 €",cateAlim456
+piezPre743AmAli,Productos enlatados,Amarillo,"4,58 €",cateAlim456
+piezPre273VeAli,Productos enlatados,Verde,"4,58 €",cateAlim456
+piezPre897NaAli,Productos enlatados,Naranja,"4,58 €",cateAlim456
+piezPre531MoAli,Productos enlatados,Morado,"4,58 €",cateAlim456
+piezPre606NgAli,Productos enlatados,Negro,"4,58 €",cateAlim456
+piezPre212BlAli,Productos enlatados,Blanco,"4,58 €",cateAlim456
+piezPre435RsAli,Productos enlatados,Rosa,"4,58 €",cateAlim456
+piezPre061MrAli,Productos enlatados,Marrón,"4,58 €",cateAlim456
+piezLác623RjAli,Lácteos,Rojo,"1,33 €",cateAlim456
+piezLác905AzAli,Lácteos,Azul,"1,33 €",cateAlim456
+piezLác163AmAli,Lácteos,Amarillo,"1,33 €",cateAlim456
+piezLác306VeAli,Lácteos,Verde,"1,33 €",cateAlim456
+piezLác731NaAli,Lácteos,Naranja,"1,33 €",cateAlim456
+piezLác892MoAli,Lácteos,Morado,"1,33 €",cateAlim456
+piezLác753NgAli,Lácteos,Negro,"1,33 €",cateAlim456
+piezLác726BlAli,Lácteos,Blanco,"1,33 €",cateAlim456
+piezLác463RsAli,Lácteos,Rosa,"1,33 €",cateAlim456
+piezLác526MrAli,Lácteos,Marrón,"1,33 €",cateAlim456
+piezPaf765RjAli,Pan fresco,Rojo,"1,14 €",cateAlim456
+piezPaf263AzAli,Pan fresco,Azul,"1,14 €",cateAlim456
+piezPaf700AmAli,Pan fresco,Amarillo,"1,14 €",cateAlim456
+piezPaf440VeAli,Pan fresco,Verde,"1,14 €",cateAlim456
+piezPaf944NaAli,Pan fresco,Naranja,"1,14 €",cateAlim456
+piezPaf234MoAli,Pan fresco,Morado,"1,14 €",cateAlim456
+piezPaf258NgAli,Pan fresco,Negro,"1,14 €",cateAlim456
+piezPaf268BlAli,Pan fresco,Blanco,"1,14 €",cateAlim456
+piezPaf302RsAli,Pan fresco,Rosa,"1,14 €",cateAlim456
+piezPaf802MrAli,Pan fresco,Marrón,"1,14 €",cateAlim456
+piezBeb033RjAli,Bebidas,Rojo,"3,27 €",cateAlim456
+piezBeb062AzAli,Bebidas,Azul,"3,27 €",cateAlim456
+piezBeb478AmAli,Bebidas,Amarillo,"3,27 €",cateAlim456
+piezBeb485VeAli,Bebidas,Verde,"3,27 €",cateAlim456
+piezBeb896NaAli,Bebidas,Naranja,"3,27 €",cateAlim456
+piezBeb435MoAli,Bebidas,Morado,"3,27 €",cateAlim456
+piezBeb404NgAli,Bebidas,Negro,"3,27 €",cateAlim456
+piezBeb063BlAli,Bebidas,Blanco,"3,27 €",cateAlim456
+piezBeb927RsAli,Bebidas,Rosa,"3,27 €",cateAlim456
+piezBeb099MrAli,Bebidas,Marrón,"3,27 €",cateAlim456
+piezSna215RjAli,Snacks,Rojo,"2,91 €",cateAlim456
+piezSna133AzAli,Snacks,Azul,"2,91 €",cateAlim456
+piezSna681AmAli,Snacks,Amarillo,"2,91 €",cateAlim456
+piezSna025VeAli,Snacks,Verde,"2,91 €",cateAlim456
+piezSna760NaAli,Snacks,Naranja,"2,91 €",cateAlim456
+piezSna052MoAli,Snacks,Morado,"2,91 €",cateAlim456
+piezSna072NgAli,Snacks,Negro,"2,91 €",cateAlim456
+piezSna505BlAli,Snacks,Blanco,"2,91 €",cateAlim456
+piezSna730RsAli,Snacks,Rosa,"2,91 €",cateAlim456
+piezSna832MrAli,Snacks,Marrón,"2,91 €",cateAlim456
+piezDul555RjAli,Dulces,Rojo,"0,77 €",cateAlim456
+piezDul009AzAli,Dulces,Azul,"0,77 €",cateAlim456
+piezDul116AmAli,Dulces,Amarillo,"0,77 €",cateAlim456
+piezDul554VeAli,Dulces,Verde,"0,77 €",cateAlim456
+piezDul305NaAli,Dulces,Naranja,"0,77 €",cateAlim456
+piezDul537MoAli,Dulces,Morado,"0,77 €",cateAlim456
+piezDul715NgAli,Dulces,Negro,"0,77 €",cateAlim456
+piezDul021BlAli,Dulces,Blanco,"0,77 €",cateAlim456
+piezDul530RsAli,Dulces,Rosa,"0,77 €",cateAlim456
+piezDul483MrAli,Dulces,Marrón,"0,77 €",cateAlim456
+piezPor110RjInf,Portátiles,Rojo,"106,51 €",cateInfo684
+piezPor231AzInf,Portátiles,Azul,"106,51 €",cateInfo684
+piezPor770AmInf,Portátiles,Amarillo,"106,51 €",cateInfo684
+piezPor988VeInf,Portátiles,Verde,"106,51 €",cateInfo684
+piezPor696NaInf,Portátiles,Naranja,"106,51 €",cateInfo684
+piezPor126MoInf,Portátiles,Morado,"106,51 €",cateInfo684
+piezPor931NgInf,Portátiles,Negro,"106,51 €",cateInfo684
+piezPor534BlInf,Portátiles,Blanco,"106,51 €",cateInfo684
+piezPor708RsInf,Portátiles,Rosa,"106,51 €",cateInfo684
+piezPor459MrInf,Portátiles,Marrón,"106,51 €",cateInfo684
+piezImp557RjInf,Impresoras,Rojo,"44,6 €",cateInfo684
+piezImp569AzInf,Impresoras,Azul,"44,6 €",cateInfo684
+piezImp750AmInf,Impresoras,Amarillo,"44,6 €",cateInfo684
+piezImp749VeInf,Impresoras,Verde,"44,6 €",cateInfo684
+piezImp989NaInf,Impresoras,Naranja,"44,6 €",cateInfo684
+piezImp712MoInf,Impresoras,Morado,"44,6 €",cateInfo684
+piezImp938NgInf,Impresoras,Negro,"44,6 €",cateInfo684
+piezImp232BlInf,Impresoras,Blanco,"44,6 €",cateInfo684
+piezImp751RsInf,Impresoras,Rosa,"44,6 €",cateInfo684
+piezImp219MrInf,Impresoras,Marrón,"44,6 €",cateInfo684
+piezGaR474RjInf,Gafas RV,Rojo,"178,17 €",cateInfo684
+piezGaR441AzInf,Gafas RV,Azul,"178,17 €",cateInfo684
+piezGaR582AmInf,Gafas RV,Amarillo,"178,17 €",cateInfo684
+piezGaR162VeInf,Gafas RV,Verde,"178,17 €",cateInfo684
+piezGaR840NaInf,Gafas RV,Naranja,"178,17 €",cateInfo684
+piezGaR681MoInf,Gafas RV,Morado,"178,17 €",cateInfo684
+piezGaR398NgInf,Gafas RV,Negro,"178,17 €",cateInfo684
+piezGaR070BlInf,Gafas RV,Blanco,"178,17 €",cateInfo684
+piezGaR050RsInf,Gafas RV,Rosa,"178,17 €",cateInfo684
+piezGaR727MrInf,Gafas RV,Marrón,"178,17 €",cateInfo684
+piezPCs740RjInf,PCs,Rojo,"29,49 €",cateInfo684
+piezPCs533AzInf,PCs,Azul,"29,49 €",cateInfo684
+piezPCs751AmInf,PCs,Amarillo,"29,49 €",cateInfo684
+piezPCs635VeInf,PCs,Verde,"29,49 €",cateInfo684
+piezPCs272NaInf,PCs,Naranja,"29,49 €",cateInfo684
+piezPCs564MoInf,PCs,Morado,"29,49 €",cateInfo684
+piezPCs865NgInf,PCs,Negro,"29,49 €",cateInfo684
+piezPCs152BlInf,PCs,Blanco,"29,49 €",cateInfo684
+piezPCs822RsInf,PCs,Rosa,"29,49 €",cateInfo684
+piezPCs492MrInf,PCs,Marrón,"29,49 €",cateInfo684
+piezCom741RjInf,Componentes,Rojo,"150,26 €",cateInfo684
+piezCom280AzInf,Componentes,Azul,"150,26 €",cateInfo684
+piezCom434AmInf,Componentes,Amarillo,"150,26 €",cateInfo684
+piezCom365VeInf,Componentes,Verde,"150,26 €",cateInfo684
+piezCom608NaInf,Componentes,Naranja,"150,26 €",cateInfo684
+piezCom301MoInf,Componentes,Morado,"150,26 €",cateInfo684
+piezCom042NgInf,Componentes,Negro,"150,26 €",cateInfo684
+piezCom444BlInf,Componentes,Blanco,"150,26 €",cateInfo684
+piezCom097RsInf,Componentes,Rosa,"150,26 €",cateInfo684
+piezCom351MrInf,Componentes,Marrón,"150,26 €",cateInfo684
+piezMon316RjInf,Monitores,Rojo,"120,41 €",cateInfo684
+piezMon675AzInf,Monitores,Azul,"120,41 €",cateInfo684
+piezMon200AmInf,Monitores,Amarillo,"120,41 €",cateInfo684
+piezMon806VeInf,Monitores,Verde,"120,41 €",cateInfo684
+piezMon694NaInf,Monitores,Naranja,"120,41 €",cateInfo684
+piezMon119MoInf,Monitores,Morado,"120,41 €",cateInfo684
+piezMon657NgInf,Monitores,Negro,"120,41 €",cateInfo684
+piezMon223BlInf,Monitores,Blanco,"120,41 €",cateInfo684
+piezMon821RsInf,Monitores,Rosa,"120,41 €",cateInfo684
+piezMon550MrInf,Monitores,Marrón,"120,41 €",cateInfo684
+piezTec840RjInf,Teclados,Rojo,"22,41 €",cateInfo684
+piezTec954AzInf,Teclados,Azul,"22,41 €",cateInfo684
+piezTec137AmInf,Teclados,Amarillo,"22,41 €",cateInfo684
+piezTec541VeInf,Teclados,Verde,"22,41 €",cateInfo684
+piezTec899NaInf,Teclados,Naranja,"22,41 €",cateInfo684
+piezTec969MoInf,Teclados,Morado,"22,41 €",cateInfo684
+piezTec159NgInf,Teclados,Negro,"22,41 €",cateInfo684
+piezTec625BlInf,Teclados,Blanco,"22,41 €",cateInfo684
+piezTec271RsInf,Teclados,Rosa,"22,41 €",cateInfo684
+piezTec614MrInf,Teclados,Marrón,"22,41 €",cateInfo684
+piezRat154RjInf,Ratones,Rojo,"55,94 €",cateInfo684
+piezRat685AzInf,Ratones,Azul,"55,94 €",cateInfo684
+piezRat982AmInf,Ratones,Amarillo,"55,94 €",cateInfo684
+piezRat573VeInf,Ratones,Verde,"55,94 €",cateInfo684
+piezRat704NaInf,Ratones,Naranja,"55,94 €",cateInfo684
+piezRat784MoInf,Ratones,Morado,"55,94 €",cateInfo684
+piezRat935NgInf,Ratones,Negro,"55,94 €",cateInfo684
+piezRat796BlInf,Ratones,Blanco,"55,94 €",cateInfo684
+piezRat578RsInf,Ratones,Rosa,"55,94 €",cateInfo684
+piezRat601MrInf,Ratones,Marrón,"55,94 €",cateInfo684
+piezAur698RjInf,Auriculares,Rojo,"155,42 €",cateInfo684
+piezAur214AzInf,Auriculares,Azul,"155,42 €",cateInfo684
+piezAur932AmInf,Auriculares,Amarillo,"155,42 €",cateInfo684
+piezAur472VeInf,Auriculares,Verde,"155,42 €",cateInfo684
+piezAur219NaInf,Auriculares,Naranja,"155,42 €",cateInfo684
+piezAur097MoInf,Auriculares,Morado,"155,42 €",cateInfo684
+piezAur744NgInf,Auriculares,Negro,"155,42 €",cateInfo684
+piezAur237BlInf,Auriculares,Blanco,"155,42 €",cateInfo684
+piezAur990RsInf,Auriculares,Rosa,"155,42 €",cateInfo684
+piezAur677MrInf,Auriculares,Marrón,"155,42 €",cateInfo684
+piezCab692RjInf,Cables,Rojo,"193,71 €",cateInfo684
+piezCab865AzInf,Cables,Azul,"193,71 €",cateInfo684
+piezCab140AmInf,Cables,Amarillo,"193,71 €",cateInfo684
+piezCab666VeInf,Cables,Verde,"193,71 €",cateInfo684
+piezCab541NaInf,Cables,Naranja,"193,71 €",cateInfo684
+piezCab888MoInf,Cables,Morado,"193,71 €",cateInfo684
+piezCab641NgInf,Cables,Negro,"193,71 €",cateInfo684
+piezCab890BlInf,Cables,Blanco,"193,71 €",cateInfo684
+piezCab322RsInf,Cables,Rosa,"193,71 €",cateInfo684
+piezCab674MrInf,Cables,Marrón,"193,71 €",cateInfo684
