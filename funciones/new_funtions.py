@@ -12,6 +12,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.model_selection import cross_val_score
 from concurrent.futures import ThreadPoolExecutor, TimeoutError
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 def camel_to_snake(name):
     """
@@ -489,3 +491,49 @@ def agregar_process_size_directamente(df, columnas_dict, dataset):
                         df.at[index, 'cpu_ps'] = temp_df.loc[idx_max, 'Process Size (nm)']
                     elif tipo == 'GPU':
                         df.at[index, 'gpu_ps'] = temp_df.loc[idx_max, 'Process Size (nm)']
+
+
+def plot_all_columns_in_subplots(df):
+    """
+    Genera histogramas o gráficos de barras para cada columna en el DataFrame dentro de subplots.
+    El número de barras se ajusta al número de valores únicos si es menor que 30.
+    """
+    # Número total de columnas
+    total_columns = len(df.columns)
+    
+    # Calcula el número de filas y columnas para los subplots
+    n_cols = 3  # Decide cuántas columnas de subplots quieres tener
+    n_rows = np.ceil(total_columns / n_cols).astype(int)
+    
+    # Crea una figura grande para acomodar todos los subplots
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(n_cols*5, n_rows*4))
+    axes = axes.flatten()  # Aplana el array de ejes para un fácil acceso
+    
+    for i, column in enumerate(df.columns):
+        # Determina el número de barras basado en los valores únicos
+        unique_values = df[column].nunique()
+        bins = min(30, unique_values)
+        
+        # Verifica si la columna es numérica
+        if pd.api.types.is_numeric_dtype(df[column]):
+            sns.histplot(df[column], bins=bins, kde=False, ax=axes[i])
+            axes[i].set_title(f'Distribución de {column}', fontsize=10)
+            axes[i].set_xlabel(column, fontsize=9)
+            axes[i].set_ylabel('Frecuencia', fontsize=9)
+        # Verifica si la columna es categórica
+        elif pd.api.types.is_categorical_dtype(df[column]) or df[column].dtype == 'object':
+            # Para variables categóricas, usa countplot
+            sns.countplot(y=column, data=df, order=df[column].value_counts().index[:bins], ax=axes[i])
+            axes[i].set_title(f'Distribución de {column} - Top {bins} categorías', fontsize=10)
+            axes[i].set_xlabel('Frecuencia', fontsize=9)
+            axes[i].set_ylabel(column, fontsize=9)
+        else:
+            # Si la columna no es numérica ni categórica, se deja en blanco (o se puede personalizar)
+            axes[i].set_visible(False)
+    
+    # Oculta los ejes sobrantes si los hay
+    for i in range(total_columns, len(axes)):
+        fig.delaxes(axes[i])
+    
+    plt.tight_layout()
+    plt.show()

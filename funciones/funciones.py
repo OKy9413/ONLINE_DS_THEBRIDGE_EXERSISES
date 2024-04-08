@@ -462,7 +462,7 @@ def ver_corr_NaN(df, c1, c2):
         print(f'El {part}% de los pasajeros tienen {c1} = {i}, y de esos, el {cond}% tienen {c2} como NaN', end = '\n')
 
 
-def crea_df_std(df, row_names='all', col_names=['name', 'type', 'prio', 'card', 'card%', 'NaN', 'Unknown', '%_NaN', 'Category']):
+def crea_df_std(df, row_names='all', col_names=['name', 'type', 'prio', 'card', 'card%', 'NaN', 'Unknown', '%_NaN', 'Category'], c = 0):
     """
     Crea un DataFrame de resumen (df_std) para analizar la estructura de datos de un DataFrame dado (df).
     Proporciona información sobre el tipo de datos, la cardinalidad, el número de valores NaN y Unknown,
@@ -473,6 +473,7 @@ def crea_df_std(df, row_names='all', col_names=['name', 'type', 'prio', 'card', 
         df (DataFrame): DataFrame de pandas a analizar.
         row_names (list, optional): Lista de nombres de columnas a incluir en el análisis. 'all' analiza todas las columnas.
         col_names (list, optional): Nombres de las columnas en el DataFrame de resumen.
+        c (float, optional): variación de los rangos de clasificación como Categórica.
 
     Returns:
         DataFrame: Un DataFrame de resumen con las columnas especificadas en col_names.
@@ -499,13 +500,37 @@ def crea_df_std(df, row_names='all', col_names=['name', 'type', 'prio', 'card', 
         unknown_count = df[col_name].apply(lambda x: str(x).lower() == 'unknown').sum()
         total_missing = nan_count + unknown_count
         null_percent = round((total_missing / len(df) * 100), 2)
+
+        ratio_cat = {
+            10: 4,
+            100: 7 * (1 + c + c * 0.1), 
+            1000: 12 * (1 + c + c * 0.3), 
+            10000: 17 * (1 + c + c * 0.5),
+            100000: 21 * (1 + c + c * 0.7),
+            1000000: 25 * (1 + c + c * 1.2)
+            }
         
+        def determinar_valor(num, ratio_cat):
+            # Ordenar las claves del diccionario para asegurar la búsqueda correcta
+            claves_ordenadas = sorted(ratio_cat.keys())
+
+            # Casos especiales
+            if num < claves_ordenadas[0]:
+                return ratio_cat[claves_ordenadas[0]]
+            elif num > claves_ordenadas[-1]:
+                return ratio_cat[claves_ordenadas[-1]]
+
+            # Buscar la clave inmediatamente inferior
+            for i in range(1, len(claves_ordenadas)):
+                if num < claves_ordenadas[i]:
+                    return ratio_cat[claves_ordenadas[i-1]]
+
         if unique_values == 2:
             category = 'Binaria'
-        elif pd.api.types.is_numeric_dtype(col_type) and (unique_values > 7 and unique_values <= 20 or (percent_unique >= 5 and percent_unique <= 20)):
-            category = 'Numérica Discreta'
-        elif unique_values <= 10 and percent_unique > 1 or unique_values <= 7:
+        elif not pd.api.types.is_numeric_dtype(col_type) or (unique_values < determinar_valor(len(df), ratio_cat = ratio_cat)):
             category = 'Categórica'
+        elif percent_unique < determinar_valor(len(df), ratio_cat = ratio_cat)/10:
+            category = 'Numérica Discreta'
         else:  # Para el resto de casos, consideramos la columna como Numérica Continua
             category = 'Numérica Continua'
         
@@ -685,3 +710,89 @@ def fillna_valor_mas_cercano(df, fillcol, fecha_col, provincia_col):
                     dias += 1  # Incrementar el rango de búsqueda
 
 
+
+def rellenar_nulos_media_adyacentes(df, columnas):
+    """
+    Rellena los valores nulos en las columnas especificadas de un DataFrame con la media
+    de los valores no nulos inmediatamente superior e inferior. Si el valor nulo es el primero
+    o el último en la columna, se rellena con el valor no nulo más cercano. El DataFrame se ordena
+    por sus índices antes de realizar la operación para asegurar la consistencia en la selección de
+    valores colindantes.
+
+    Parámetros:
+    - df (pd.DataFrame): DataFrame de pandas sobre el cual se realizará la operación.
+    - columnas (str o list): Nombre de la columna o lista de nombres de columnas en las que se
+      rellenarán los valores nulos.
+
+    Retorna:
+    - pd.DataFrame: DataFrame con los valores nulos rellenados según lo especificado.
+
+    Nota: La función modifica el DataFrame original y también lo retorna.
+    """
+    if isinstance(columnas, str):
+        columnas = [columnas]
+    
+    df.sort_index(inplace=True)
+    
+    for columna in columnas:
+        indices_nulos = df[df[columna].isnull()].index
+        indices_no_nulos = df[columna].dropna().index
+        
+        for idx in indices_nulos:
+            if idx == indices_nulos[0]:  # Caso especial: Primer valor nulo
+                idx_proximo = indices_no_nulos[indices_no_nulos > idx].min()
+                df.at[idx, columna] = df.at[idx_proximo, columna]
+            elif idx == indices_nulos[-1]:  # Caso especial: Último valor nulo
+                idx_previo = indices_no_nulos[indices_no_nulos < idx].max()
+                df.at[idx, columna] = df.at[idx_previo, columna]
+            else:
+                # Caso general: Valor nulo intermedio
+                idx_previo = indices_no_nulos[indices_no_nulos < idx].max()
+                idx_proximo = indices_no_nulos[indices_no_nulos > idx].min()
+                valor_medio = np.mean([df.at[idx_previo, columna], df.at[idx_proximo, columna]])
+                df.at[idx, columna] = valor_medio
+                
+    return df
+
+
+
+def rellenar_con_valor_del_dia(df, columnas, fecha_en='index'):
+    """
+    Rellena los valores nulos en las columnas especificadas de un DataFrame con el valor más frecuente
+    (moda) encontrado en esa columna para el mismo día. Se puede especificar si las fechas están en
+    el índice del DataFrame o en alguna columna.
+
+    Parámetros:
+    - df (pd.DataFrame): DataFrame de pandas sobre el cual se realizará la operación.
+    - columnas (str o list): Nombre de la columna o lista de nombres de columnas en las que se
+      rellenarán los valores nulos.
+    - fecha_en (str): Indica si las fechas están en el índice ('index') o el nombre de la columna
+      que contiene las fechas.
+
+    Retorna:
+    - pd.DataFrame: DataFrame con los valores nulos rellenados según lo especificado.
+    """
+    # Asegurarse de que 'columnas' sea una lista
+    if isinstance(columnas, str):
+        columnas = [columnas]
+    
+    # Trabajar con la fecha en el índice o en una columna
+    if fecha_en == 'index':
+        df['Fecha'] = df.index.date
+    else:
+        df['Fecha'] = pd.to_datetime(df[fecha_en]).dt.date
+
+    # Rellenar los valores nulos
+    for columna in columnas:
+        # Para cada grupo de fecha, rellenar nulos con la moda del grupo
+        for fecha, grupo in df.groupby('Fecha'):
+            valor_moda = grupo[columna].mode().iloc[0] if not grupo[columna].mode().empty else None
+            if valor_moda is not None:
+                indices_a_rellenar = grupo[grupo[columna].isnull()].index
+                df.loc[indices_a_rellenar, columna] = valor_moda
+
+    # Eliminar la columna de 'Fecha' agregada temporalmente si fecha_en es 'index'
+    if fecha_en == 'index':
+        df.drop('Fecha', axis=1, inplace=True)
+
+    return df
